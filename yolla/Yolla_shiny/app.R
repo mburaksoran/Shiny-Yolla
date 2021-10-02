@@ -8,8 +8,8 @@ library(tidyverse)
 library(mongolite)
 library(jsonlite)
 
-connection_string = 'mongodb+srv://Agulhas:Agulhas@cluster0.xa1nz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
-collection = mongo(collection="Users", db="Yolla", url=connection_string)
+connection_string = 'mongodb+srv://username:password@cluster0.xa1nz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+collection = mongo(collection="collection", db="db", url=connection_string)
 user_base<-collection$find('{}')
 
 ui <- dashboardPage(

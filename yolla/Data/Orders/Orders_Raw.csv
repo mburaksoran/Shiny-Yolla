@@ -1,0 +1,750 @@
+,restName,from,orderTime,extras,isDelivered,itemCount,sentBy,isPaid,paidBy,itemVal,closedBy,table,sendTime,closedAt,item,orderCaption,discount,discountAt,discountBy,discountPercentage
+0,,,,,,,,,,,,,,,,,,,,
+1,Vivaldi Harmony,adyan,2021-09-20 13:33:22.976000+00:00,[],1.0,1.0,gorkemk,1.0,card,15.0,vharmonyadmin,d15,2021-09-20 13:37:30.645999+00:00,2021-09-20 14:48:13.523000+00:00,FİLTRE KAHVE,,,,,
+2,Vivaldi Harmony,adyan,2021-09-20 13:33:35.548000+00:00,[],True,1.0,gorkemk,True,cash,15.525,vharmonyadmin,s5,2021-09-20 13:37:33.081000+00:00,2021-09-20 13:58:20.462000+00:00,COFFEE FLAT WHİTE ,,1.0,2021-09-20 13:56:38.302000+00:00,vharmonyadmin,10.0
+3,Vivaldi Harmony,adyan,2021-09-20 13:33:47.365000+00:00,[],True,2.0,gorkemk,True,cash,62.1,vharmonyadmin,s5,2021-09-20 13:37:39.496000+00:00,2021-09-20 13:58:20.462000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 13:56:38.302000+00:00,vharmonyadmin,10.0
+4,Vivaldi Harmony,adyan,2021-09-20 13:33:52.122999+00:00,[],True,1.0,gorkemk,True,cash,31.05,vharmonyadmin,s5,2021-09-20 13:37:41.184999+00:00,2021-09-20 13:58:20.462000+00:00,Vivaldi Brownie,,True,2021-09-20 13:56:38.302000+00:00,vharmonyadmin,10.0
+5,Vivaldi Harmony,adyan,2021-09-20 13:34:07.997999+00:00,[],True,3.0,gorkemk,True,cash,15.525,vharmonyadmin,s5,2021-09-20 13:37:45.229000+00:00,2021-09-20 13:58:20.462000+00:00,SU,,True,2021-09-20 13:56:38.302000+00:00,vharmonyadmin,10.0
+6,Vivaldi Görükle,vgorukle,2021-09-20 13:35:46.686000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b1,,2021-09-20 13:35:54.211000+00:00,SİYAH ÇAY,,,,,
+7,Vivaldi Görükle,vgorukle,2021-09-20 13:35:50.470000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b1,,2021-09-20 13:35:54.211000+00:00,SU,,,,,
+8,Vivaldi Harmony,adyan,2021-09-20 13:36:40.977999+00:00,[],True,2.0,gorkemk,True,cash,23.8,vharmonyadmin,s6,2021-09-20 13:40:05.249000+00:00,2021-09-20 14:05:17.614000+00:00,GELENEKSEL TÜRK KAHVESİ,şekerli/ sade ,True,2021-09-20 14:01:56.210000+00:00,vharmonyadmin,15.0
+9,Vivaldi Harmony,gorkemk,2021-09-20 13:44:31.953000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s2,2021-09-20 13:46:11.020999+00:00,2021-09-20 13:57:04.096000+00:00,VİVALDİ ÇİLEK,,,,,
+10,Vivaldi Harmony,adyan,2021-09-20 13:47:04.339999+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d15,2021-09-20 13:50:44.865000+00:00,2021-09-20 14:48:13.523000+00:00,SİYAH ÇAY,,,,,
+11,Vivaldi Harmony,adyan,2021-09-20 13:47:10.482000+00:00,[],True,1.0,gorkemk,True,card,14.0,vharmonyadmin,d15,2021-09-20 13:50:46.065999+00:00,2021-09-20 14:48:13.523000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+12,Vivaldi Harmony,adyan,2021-09-20 13:47:14.739000+00:00,[],True,1.0,gorkemk,True,card,7.0,vharmonyadmin,d15,2021-09-20 13:50:47.226000+00:00,2021-09-20 14:48:13.523000+00:00,SODA,,,,,
+13,Vivaldi Harmony,adyan,2021-09-20 13:48:09.586999+00:00,[],True,2.0,gorkemk,True,card,10.004999999999999,vharmonyadmin,b4,2021-09-20 13:50:48.266000+00:00,2021-09-20 16:18:53.131000+00:00,SİYAH ÇAY,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+14,Vivaldi Harmony,adyan,2021-09-20 13:49:46.224999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,s4,2021-09-20 13:56:46.364000+00:00,2021-09-20 14:36:02.421000+00:00,Vivaldi Brownie,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+15,Vivaldi Harmony,adyan,2021-09-20 13:50:12.812999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,s4,2021-09-20 13:56:47.313999+00:00,2021-09-20 14:36:02.421000+00:00,VİVALDİ ÇİLEK,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+16,Vivaldi Harmony,adyan,2021-09-20 13:50:16.147000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,s4,2021-09-20 13:56:48.421999+00:00,2021-09-20 14:36:02.421000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+17,Vivaldi Harmony,adyan,2021-09-20 13:50:25.970999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,s4,2021-09-20 13:56:49.447000+00:00,2021-09-20 14:36:02.421000+00:00,Vivaldi Brownie,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+18,Vivaldi Harmony,adyan,2021-09-20 13:51:38.974999+00:00,[],True,4.0,gorkemk,True,card,56.028000000000006,vharmonyadmin,s4,2021-09-20 13:56:50.496999+00:00,2021-09-20 14:36:02.421000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+19,Vivaldi Harmony,adyan,2021-09-20 13:54:55.440999+00:00,[],True,1.0,adyan,True,card,5.0,vharmonyadmin,d2,2021-09-20 13:55:04.232000+00:00,2021-09-20 14:07:43.946000+00:00,SU,,,,,
+20,Vivaldi Harmony,adyan,2021-09-20 13:55:58.131999+00:00,[],True,2.0,gorkemk,True,card,10.004999999999999,vharmonyadmin,s4,2021-09-20 13:56:51.423000+00:00,2021-09-20 14:36:02.421000+00:00,SU,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+21,Vivaldi Harmony,adyan,2021-09-20 14:02:49.322000+00:00,[],True,1.0,gorkemk,True,card,15.66,vharmonyadmin,s4,2021-09-20 14:03:59.690999+00:00,2021-09-20 14:36:02.421000+00:00,EL YAPIMI LİMONATA,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+22,Vivaldi Özlüce,cozluceadmin,2021-09-20 14:07:21.085000+00:00,[],True,1.0,,True,cash,18.0,cozluceadmin,s6,,2021-09-20 14:35:32.277000+00:00,COFFEE DARK MOCHA,,,,,
+23,Vivaldi Özlüce,cozluceadmin,2021-09-20 14:07:24.364000+00:00,[],True,1.0,,True,cash,15.0,cozluceadmin,s6,,2021-09-20 14:35:32.277000+00:00,COFFEE FLAT WHİTE ,,,,,
+24,Vivaldi Özlüce,cozluceadmin,2021-09-20 14:07:28.288000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,s6,,2021-09-20 14:35:32.277000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+25,Vivaldi Özlüce,cozluceadmin,2021-09-20 14:07:29.875000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,s6,,2021-09-20 14:35:32.277000+00:00,VİVALDİ BROWNİE,,,,,
+26,Vivaldi Görükle,vgorukle,2021-09-20 14:08:57.406000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,VİVALDİ ÇİLEK,,,,,
+27,Vivaldi Görükle,vgorukle,2021-09-20 14:08:58.803000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,VİVALDİ ÇİLEK,,,,,
+28,Vivaldi Görükle,vgorukle,2021-09-20 14:09:03.617000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,VİVALDİ BROWNIE,,,,,
+29,Vivaldi Görükle,vgorukle,2021-09-20 14:09:09.086000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,SU,,,,,
+30,Vivaldi Görükle,vgorukle,2021-09-20 14:09:10.234000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,SU,,,,,
+31,Vivaldi Görükle,vgorukle,2021-09-20 14:09:11.425000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,SU,,,,,
+32,Vivaldi Harmony,adyan,2021-09-20 14:09:11.858000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d11,2021-09-20 14:13:27.434999+00:00,2021-09-20 14:37:44.139000+00:00,SİYAH ÇAY,,,,,
+33,Vivaldi Harmony,adyan,2021-09-20 14:09:17.875000+00:00,[],True,1.0,gorkemk,True,card,14.0,vharmonyadmin,d11,2021-09-20 14:13:28.403000+00:00,2021-09-20 14:37:44.139000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,,,,
+34,Vivaldi Görükle,vgorukle,2021-09-20 14:09:20.841000+00:00,[],True,275.0,,True,card,82.5,vgorukle,b1,,2021-09-20 14:10:18.360000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+35,Vivaldi Harmony,adyan,2021-09-20 14:09:23.723999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d11,2021-09-20 14:13:29.395999+00:00,2021-09-20 14:37:44.139000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+36,Vivaldi Harmony,adyan,2021-09-20 14:10:55.053999+00:00,[],True,3.0,gorkemk,True,card,13.05,vharmonyadmin,s4,2021-09-20 14:13:24.502000+00:00,2021-09-20 14:36:02.421000+00:00,SU,,True,2021-09-20 14:35:56.825000+00:00,vharmonyadmin,13.0
+37,Vivaldi Harmony,adyan,2021-09-20 14:23:57.180000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d1,2021-09-20 14:25:52.546000+00:00,2021-09-20 14:44:18.472000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+38,Vivaldi Harmony,adyan,2021-09-20 14:26:52.353000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d1,2021-09-20 14:28:53.505000+00:00,2021-09-20 14:44:18.472000+00:00,VİVALDİ ÇİLEK,,,,,
+39,Vivaldi Görükle,vgorukle,2021-09-20 14:34:56.422000+00:00,[],True,1.0,,True,card,16.0,vgorukle,s6,,2021-09-20 14:49:14.217000+00:00,COFFEE LATTE,,,,,
+40,Vivaldi Görükle,vgorukle,2021-09-20 14:35:04.769000+00:00,[],True,70.0,,True,card,21.0,vgorukle,s6,,2021-09-20 14:49:14.217000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+41,Vivaldi Harmony,gorkemk,2021-09-20 14:35:34.559999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d8,2021-09-20 14:36:39.617000+00:00,2021-09-20 14:52:19.380000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+42,Vivaldi Harmony,adyan,2021-09-20 14:44:28.664000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s1,2021-09-20 14:57:31.594000+00:00,2021-09-20 15:26:00.446000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+43,Vivaldi Harmony,adyan,2021-09-20 14:45:00.261000+00:00,[],True,1.0,gorkemk,True,cash,20.0,vharmonyadmin,s1,2021-09-20 14:57:33.493999+00:00,2021-09-20 15:26:00.446000+00:00,AROMALI ICE MOCHA,karamel ,,,,
+44,Vivaldi Harmony,vharmonyadmin,2021-09-20 14:46:10.660000+00:00,[],True,2.0,,True,card,28.0,vharmonyadmin,a0,,2021-09-20 14:47:26.819000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+45,Vivaldi Harmony,vharmonyadmin,2021-09-20 14:46:20.384000+00:00,[],True,55.0,,True,card,16.5,vharmonyadmin,a0,,2021-09-20 14:47:26.819000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+46,Vivaldi Harmony,adyan,2021-09-20 14:46:52.597000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,s1,2021-09-20 14:57:34.559999+00:00,2021-09-20 15:26:00.446000+00:00,COFFEE LATTE,,,,,
+47,Vivaldi Harmony,adyan,2021-09-20 14:53:35.401000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,d11,2021-09-20 15:06:13.726999+00:00,2021-09-20 16:12:26.622000+00:00,SİYAH ÇAY,,,,,
+48,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 14:57:24.829999+00:00,[],True,2.0,,True,card,32.0,vivaldisoganli,b1,,2021-09-20 17:00:17.148000+00:00,CAPPUCCİNO,,,,,
+49,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 14:57:29.461999+00:00,[],True,1.0,,True,card,5.0,vivaldisoganli,b1,,2021-09-20 17:00:17.148000+00:00,SU,,,,,
+50,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 14:57:31.688999+00:00,[],True,1.0,,True,card,30.0,vivaldisoganli,b1,,2021-09-20 17:00:17.148000+00:00,VİVALDİ BROWNİE,,,,,
+51,Vivaldi Harmony,vharmonyadmin,2021-09-20 14:58:35.649000+00:00,[],True,2.0,,True,card,60.0,vharmonyadmin,a0,,2021-09-20 14:58:41.725000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+52,Vivaldi Harmony,adyan,2021-09-20 14:59:33.457000+00:00,[],True,1.0,gorkemk,True,card,14.25,vharmonyadmin,s7,2021-09-20 15:03:20.283999+00:00,2021-09-20 15:32:45.925000+00:00,FİLTRE KAHVE,,True,2021-09-20 15:29:32.133000+00:00,vharmonyadmin,5.0
+53,Vivaldi Harmony,adyan,2021-09-20 14:59:44.636000+00:00,[],True,1.0,gorkemk,True,card,28.5,vharmonyadmin,s7,2021-09-20 15:03:21.194999+00:00,2021-09-20 15:32:45.925000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),çilek ,True,2021-09-20 15:29:32.133000+00:00,vharmonyadmin,5.0
+54,Vivaldi Harmony,adyan,2021-09-20 14:59:56.534000+00:00,[],True,1.0,gorkemk,True,card,4.75,vharmonyadmin,s7,2021-09-20 15:03:22.168999+00:00,2021-09-20 15:32:45.925000+00:00,SU,,True,2021-09-20 15:29:32.133000+00:00,vharmonyadmin,5.0
+55,Vivaldi Harmony,adyan,2021-09-20 15:00:56.949000+00:00,[],True,1.0,gorkemk,True,card,19.0,vharmonyadmin,s7,2021-09-20 15:03:23.043999+00:00,2021-09-20 15:32:45.925000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-20 15:29:32.133000+00:00,vharmonyadmin,5.0
+56,Vivaldi Harmony,adyan,2021-09-20 15:02:00.738000+00:00,[],True,1.0,gorkemk,True,cash,3.1875,vharmonyadmin,d4,2021-09-20 15:06:14.936000+00:00,2021-09-20 16:02:53.950000+00:00,SİYAH ÇAY,açık,True,2021-09-20 16:02:50.021000+00:00,vharmonyadmin,25.0
+57,Vivaldi Harmony,adyan,2021-09-20 15:02:11.860000+00:00,[],True,2.0,gorkemk,True,card,11.9,vharmonyadmin,d4,2021-09-20 15:06:16.654999+00:00,2021-09-20 16:02:40.963000+00:00,SODA,çarçil,True,2021-09-20 16:02:36.401000+00:00,vharmonyadmin,15.0
+58,Vivaldi Harmony,adyan,2021-09-20 15:07:34.503000+00:00,[],True,1.0,gorkemk,True,card,11.9,vharmonyadmin,d4,2021-09-20 15:10:50.174000+00:00,2021-09-20 16:02:44.125000+00:00,GELENEKSEL TÜRK KAHVESİ,az şeker ,True,2021-09-20 16:02:36.401000+00:00,vharmonyadmin,15.0
+59,Vivaldi Harmony,adyan,2021-09-20 15:07:48.224000+00:00,[],True,1.0,gorkemk,True,card,16.0,vharmonyadmin,b8,2021-09-20 15:13:14.591000+00:00,2021-09-20 16:02:14.117000+00:00,COFFEE LATTE,,,,,
+60,Vivaldi Harmony,adyan,2021-09-20 15:07:55.273000+00:00,[],True,1.0,gorkemk,True,card,14.0,vharmonyadmin,b8,2021-09-20 15:10:53.263999+00:00,2021-09-20 16:02:14.117000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+61,Vivaldi Harmony,adyan,2021-09-20 15:08:08.292000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b8,2021-09-20 15:13:15.532999+00:00,2021-09-20 16:02:14.117000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+62,Vivaldi Harmony,adyan,2021-09-20 15:09:57.295000+00:00,[],True,3.0,gorkemk,True,cash,15.0075,vharmonyadmin,s2,2021-09-20 15:10:28.040999+00:00,2021-09-20 16:21:25.215000+00:00,SU,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+63,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 15:10:55.854000+00:00,[],True,1.0,,True,card,5.0,vivaldisoganli,b1,,2021-09-20 17:00:17.148000+00:00,SU,,,,,
+64,Vivaldi Harmony,adyan,2021-09-20 15:12:10.517000+00:00,[],True,2.0,gorkemk,True,card,28.0,vharmonyadmin,d8,2021-09-20 15:19:25.493000+00:00,2021-09-20 16:49:49.709000+00:00,AMERİCANO,,,,,
+65,Vivaldi Harmony,adyan,2021-09-20 15:12:14.818000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d8,2021-09-20 15:19:26.290999+00:00,2021-09-20 16:49:49.709000+00:00,Vivaldi Bomba,,,,,
+66,Vivaldi Harmony,adyan,2021-09-20 15:12:19.074000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d8,2021-09-20 15:19:27.157000+00:00,2021-09-20 16:49:49.709000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+67,Vivaldi Harmony,adyan,2021-09-20 15:12:57.438000+00:00,[],True,2.0,gorkemk,True,card,60.03,vharmonyadmin,s2,2021-09-20 15:19:33.367000+00:00,2021-09-20 16:21:16.240000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+68,Vivaldi Harmony,adyan,2021-09-20 15:13:30.370000+00:00,[],True,2.0,gorkemk,True,card,28.014000000000003,vharmonyadmin,s2,2021-09-20 15:19:35.750000+00:00,2021-09-20 16:21:21.977000+00:00,GELENEKSEL TÜRK KAHVESİ,şekerli ,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+69,Vivaldi Harmony,adyan,2021-09-20 15:15:32.154000+00:00,[],True,1.0,gorkemk,True,cash,14.007000000000001,vharmonyadmin,s2,2021-09-20 15:21:34.203000+00:00,2021-09-20 16:21:25.215000+00:00,GELENEKSEL TÜRK KAHVESİ,orta,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+70,Vivaldi Harmony,adyan,2021-09-20 15:16:42.749000+00:00,[],True,1.0,gorkemk,True,cash,7.003500000000001,vharmonyadmin,s2,2021-09-20 15:21:35.453000+00:00,2021-09-20 16:21:25.215000+00:00,SODA,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+71,Vivaldi Görükle,vgorukle,2021-09-20 15:16:48.119000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 15:17:38.217000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+72,Vivaldi Görükle,vgorukle,2021-09-20 15:16:54.690000+00:00,[],True,1.0,,True,card,12.0,vgorukle,b1,,2021-09-20 15:17:38.217000+00:00, ESPRESSO,,,,,
+73,Vivaldi Harmony,adyan,2021-09-20 15:17:41.620000+00:00,[],True,1.0,gorkemk,True,cash,5.0024999999999995,vharmonyadmin,s2,2021-09-20 15:17:45.670000+00:00,2021-09-20 16:21:25.215000+00:00,SU,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+74,Vivaldi Harmony,adyan,2021-09-20 15:19:26.699000+00:00,[],True,3.0,gorkemk,True,cash,42.0,vharmonyadmin,d1,2021-09-20 15:24:58.434000+00:00,2021-09-20 16:58:32.526000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+75,Vivaldi Harmony,adyan,2021-09-20 15:19:29.487000+00:00,[],True,1.0,gorkemk,True,cash,7.0,vharmonyadmin,d1,2021-09-20 15:25:00.183000+00:00,2021-09-20 16:58:32.526000+00:00,SODA,,,,,
+76,Vivaldi Harmony,adyan,2021-09-20 15:20:51.375000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d17,2021-09-20 15:25:02.459000+00:00,2021-09-20 16:05:59.573000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+77,Vivaldi Harmony,adyan,2021-09-20 15:20:55.694000+00:00,[],True,2.0,gorkemk,True,card,10.0,vharmonyadmin,d17,2021-09-20 15:25:03.382999+00:00,2021-09-20 16:05:59.573000+00:00,SU,,,,,
+78,Vivaldi Harmony,adyan,2021-09-20 15:30:37.720000+00:00,[],True,2.0,gorkemk,True,card,28.0,vharmonyadmin,d9,2021-09-20 15:33:39.970999+00:00,2021-09-20 16:05:13.248000+00:00,GELENEKSEL TÜRK KAHVESİ,sade / orta ,,,,
+79,Vivaldi Harmony,adyan,2021-09-20 15:30:43.809999+00:00,[],True,1.0,gorkemk,True,card,7.0,vharmonyadmin,d9,2021-09-20 15:33:41.063999+00:00,2021-09-20 16:05:13.248000+00:00,SODA,,,,,
+80,Vivaldi Harmony,adyan,2021-09-20 15:32:02.551000+00:00,[],True,1.0,gorkemk,True,cash,4.35,vharmonyadmin,s2,2021-09-20 15:33:02.632999+00:00,2021-09-20 16:21:25.215000+00:00,SU,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+81,Vivaldi Harmony,adyan,2021-09-20 15:35:23.480999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d9,2021-09-20 15:36:23.351000+00:00,2021-09-20 16:05:13.248000+00:00,VİVALDİ MUZ,,,,,
+82,Vivaldi Harmony,adyan,2021-09-20 15:37:41.453999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d19,2021-09-20 15:40:10.746000+00:00,2021-09-20 16:56:56.091000+00:00,SİYAH ÇAY,,,,,
+83,Vivaldi Harmony,adyan,2021-09-20 15:38:31.068000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d14,2021-09-20 15:43:59.834000+00:00,2021-09-20 16:03:09.251000+00:00,COFFEE LATTE,,,,,
+84,Vivaldi Harmony,adyan,2021-09-20 15:38:40.276000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d14,2021-09-20 15:44:00.957999+00:00,2021-09-20 16:03:09.251000+00:00,SU,,,,,
+85,Vivaldi Harmony,adyan,2021-09-20 15:40:18.796000+00:00,[],True,1.0,gorkemk,True,card,14.0,vharmonyadmin,d6,2021-09-20 15:46:10.743000+00:00,2021-09-20 17:01:29.857000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+86,Vivaldi Harmony,adyan,2021-09-20 15:50:38.431000+00:00,[],True,1.0,gorkemk,True,card,15.0,vharmonyadmin,d7,2021-09-20 15:55:40.276999+00:00,2021-09-20 16:33:09.903000+00:00,COFFEE FLAT WHİTE ,,,,,
+87,Vivaldi Harmony,adyan,2021-09-20 15:50:45.441000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d7,2021-09-20 15:55:38.618000+00:00,2021-09-20 16:33:09.903000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+88,Vivaldi Harmony,adyan,2021-09-20 15:50:48.336000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d7,2021-09-20 15:55:41.308000+00:00,2021-09-20 16:33:09.903000+00:00,VİVALDİ MUZ,,,,,
+89,Vivaldi Harmony,adyan,2021-09-20 15:51:00.288000+00:00,[],True,1.0,gorkemk,True,card,15.0,vharmonyadmin,d7,2021-09-20 15:56:42.364000+00:00,2021-09-20 16:33:09.903000+00:00,FİLTRE KAHVE,sok,,,,
+90,Vivaldi Harmony,adyan,2021-09-20 15:52:35.047000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s4,2021-09-20 15:56:43.503000+00:00,2021-09-20 16:09:08.641000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+91,Vivaldi Görükle,vgorukle,2021-09-20 15:58:46.219000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,SİYAH ÇAY,,,,,
+92,Vivaldi Görükle,vgorukle,2021-09-20 15:58:50.939000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,VİVALDİ ÇİLEK,,,,,
+93,Vivaldi Harmony,adyan,2021-09-20 15:59:39.608000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,b4,2021-09-20 16:05:38.536999+00:00,2021-09-20 16:18:53.131000+00:00,Vivaldi Brownie,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+94,Vivaldi Harmony,adyan,2021-09-20 15:59:48.148000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,b4,2021-09-20 16:05:39.470000+00:00,2021-09-20 16:18:53.131000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),çilek ,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+95,Vivaldi Harmony,adyan,2021-09-20 16:00:04.907000+00:00,[],True,2.0,gorkemk,True,card,36.018,vharmonyadmin,b4,2021-09-20 16:05:40.513000+00:00,2021-09-20 16:18:53.131000+00:00,EL YAPIMI LİMONATA,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+96,Vivaldi Harmony,adyan,2021-09-20 16:00:28.355000+00:00,[],True,1.0,gorkemk,True,card,14.007000000000001,vharmonyadmin,b4,2021-09-20 16:05:41.529000+00:00,2021-09-20 16:18:53.131000+00:00,GELENEKSEL TÜRK KAHVESİ,orta,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+97,Vivaldi Harmony,adyan,2021-09-20 16:01:32.828000+00:00,[],True,1.0,adyan,True,cash,652.5,vharmonyadmin,s2,2021-09-20 16:01:39.144000+00:00,2021-09-20 16:21:25.215000+00:00,TAVUS KUŞU MOTİFLİ AYNALI KUTU,,True,2021-09-20 16:21:03.248000+00:00,vharmonyadmin,13.0
+98,Vivaldi Harmony,adyan,2021-09-20 16:03:58.875999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d16,2021-09-20 16:08:59.901000+00:00,2021-09-20 16:16:54.310000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+99,Vivaldi Harmony,adyan,2021-09-20 16:04:06.815999+00:00,[],True,1.0,gorkemk,True,card,14.0,vharmonyadmin,d16,2021-09-20 16:09:01.007999+00:00,2021-09-20 16:16:54.310000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+100,Vivaldi Harmony,adyan,2021-09-20 16:08:47.499000+00:00,[],True,1.0,gorkemk,True,cash,3.0,vharmonyadmin,d14,2021-09-20 16:11:27.398999+00:00,2021-09-20 16:34:02.810000+00:00,SİYAH ÇAY,,True,2021-09-20 16:33:57.504000+00:00,vharmonyadmin,40.0
+101,Vivaldi Özlüce,cozluceadmin,2021-09-20 16:09:28.355000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b4,,2021-09-20 16:42:29.616000+00:00,ÇAY,,,,,
+102,Vivaldi Özlüce,cozluceadmin,2021-09-20 16:09:31.210000+00:00,[],True,1.0,,True,cash,14.0,cozluceadmin,b4,,2021-09-20 16:42:29.616000+00:00,DİBEK KAHVESİ,,,,,
+103,Vivaldi Özlüce,cozluceadmin,2021-09-20 16:09:35.940000+00:00,[],True,1.0,,True,cash,16.0,cozluceadmin,b4,,2021-09-20 16:42:29.616000+00:00,COFFEE LATTE,,,,,
+104,Vivaldi Özlüce,cozluceadmin,2021-09-20 16:09:38.792000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,b4,,2021-09-20 16:42:29.616000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+105,Vivaldi Özlüce,cozluceadmin,2021-09-20 16:09:46.197000+00:00,[],True,2.0,,True,cash,10.0,cozluceadmin,b4,,2021-09-20 16:42:29.616000+00:00,SU,,,,,
+106,Vivaldi Harmony,adyan,2021-09-20 16:10:17.469000+00:00,[],True,2.0,gorkemk,True,card,15.0075,vharmonyadmin,b4,2021-09-20 16:12:06.914000+00:00,2021-09-20 16:18:53.131000+00:00,vanilyalı ,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+107,Vivaldi Görükle,vgorukle,2021-09-20 16:14:34.356000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+108,Vivaldi Görükle,vgorukle,2021-09-20 16:14:36.639000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,DAMLA SAKIZLI TÜRK KAHVESİ ,,,,,
+109,Vivaldi Görükle,vgorukle,2021-09-20 16:14:44.571000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b2,,2021-09-20 16:38:05.260000+00:00,VİVALDİ BOMBA,,,,,
+110,Vivaldi Görükle,vgorukle,2021-09-20 16:14:54.533000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b2,,2021-09-20 16:38:05.260000+00:00,AMERİCANO,,,,,
+111,Vivaldi Görükle,vgorukle,2021-09-20 16:14:57.832000+00:00,[],True,1.0,,True,card,18.0,vgorukle,b2,,2021-09-20 16:38:05.260000+00:00,BAL TARÇIN LATTE ,,,,,
+112,Vivaldi Harmony,adyan,2021-09-20 16:15:16.255000+00:00,[],True,1.0,adyan,True,cash,4.25,vharmonyadmin,d4,2021-09-20 16:16:15.233000+00:00,2021-09-20 18:49:25.711000+00:00,SİYAH ÇAY,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+113,Vivaldi Harmony,adyan,2021-09-20 16:15:22.869999+00:00,[],True,1.0,adyan,True,cash,11.9,vharmonyadmin,d4,2021-09-20 16:16:13.214999+00:00,2021-09-20 18:49:25.711000+00:00,GELENEKSEL TÜRK KAHVESİ,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+114,Vivaldi Harmony,adyan,2021-09-20 16:16:06.790999+00:00,[],True,1.0,adyan,True,card,5.0024999999999995,vharmonyadmin,b4,2021-09-20 16:16:12.089999+00:00,2021-09-20 16:18:53.131000+00:00,SU,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+115,Vivaldi Harmony,adyan,2021-09-20 16:18:34.886000+00:00,[],True,1.0,gorkemk,True,card,4.35,vharmonyadmin,b4,2021-09-20 16:18:45.039000+00:00,2021-09-20 16:18:53.131000+00:00,SU,,True,2021-09-20 16:18:48.518000+00:00,vharmonyadmin,13.0
+116,Vivaldi Harmony,adyan,2021-09-20 16:21:03.816000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d8,2021-09-20 16:22:35.956000+00:00,2021-09-20 16:49:49.709000+00:00,SU,,,,,
+117,Vivaldi Harmony,adyan,2021-09-20 16:21:05.687000+00:00,[],True,1.0,gorkemk,True,card,7.0,vharmonyadmin,d8,2021-09-20 16:22:37.214999+00:00,2021-09-20 16:49:49.709000+00:00,SODA,,,,,
+118,Vivaldi Harmony,adyan,2021-09-20 16:29:03.486000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d10,2021-09-20 16:33:41.043999+00:00,2021-09-20 17:00:33.055000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+119,Vivaldi Harmony,adyan,2021-09-20 16:29:05.439000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d10,2021-09-20 16:30:38.595000+00:00,2021-09-20 17:00:33.055000+00:00,SİYAH ÇAY,,,,,
+120,Vivaldi Harmony,adyan,2021-09-20 16:29:15.440000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d2,2021-09-20 16:35:51.917999+00:00,2021-09-20 17:47:15.876000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),muz ,,,,
+121,Vivaldi Harmony,adyan,2021-09-20 16:29:18.132999+00:00,[],True,1.0,gorkemk,True,cash,28.0,vharmonyadmin,d2,2021-09-20 16:35:49.302000+00:00,2021-09-20 17:47:18.632000+00:00,Vivaldi tiremisu,,,,,
+122,Vivaldi Harmony,adyan,2021-09-20 16:29:24.463000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d2,2021-09-20 16:30:40.621999+00:00,2021-09-20 17:47:18.632000+00:00,SİYAH ÇAY,,,,,
+123,Vivaldi Harmony,adyan,2021-09-20 16:29:28.897000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d2,2021-09-20 16:35:55.661000+00:00,2021-09-20 17:47:18.632000+00:00,SU,,,,,
+124,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 16:29:29.184000+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,s6,,2021-09-20 17:04:15.167000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+125,Vivaldi Harmony,adyan,2021-09-20 16:30:41.392999+00:00,[],True,1.0,gorkemk,True,card,15.0,vharmonyadmin,d6,2021-09-20 16:38:01.687000+00:00,2021-09-20 17:01:29.857000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,sade ,,,,
+126,Vivaldi Harmony,adyan,2021-09-20 16:32:30.630000+00:00,[],True,1.0,gorkemk,True,card,15.0,vharmonyadmin,s4,2021-09-20 16:42:22.943000+00:00,2021-09-20 16:59:46.746000+00:00,YEŞİL ÇAY ,,,,,
+127,Vivaldi Harmony,adyan,2021-09-20 16:32:33.268000+00:00,[],True,1.0,gorkemk,True,card,16.0,vharmonyadmin,s4,2021-09-20 16:42:24.510999+00:00,2021-09-20 16:59:46.746000+00:00,CAPPUCCİNO,,,,,
+128,Vivaldi Harmony,adyan,2021-09-20 16:32:47.524000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,s4,2021-09-20 16:35:58.599999+00:00,2021-09-20 16:59:46.746000+00:00,SAN SEBASTİAN CHEESECAKE,çoklet yanında ,,,,
+129,Vivaldi Harmony,adyan,2021-09-20 16:34:21.236000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d6,2021-09-20 16:36:30.282999+00:00,2021-09-20 17:01:29.857000+00:00,SİYAH ÇAY,,,,,
+130,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 16:35:06.193000+00:00,[],True,2.0,,True,cash,28.0,vivaldisoganli,s6,,2021-09-20 17:04:15.167000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+131,Vivaldi Harmony,adyan,2021-09-20 16:37:34.332000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d2,2021-09-20 16:38:02.638000+00:00,2021-09-20 17:47:18.632000+00:00,SU,,,,,
+132,Vivaldi Görükle,vgorukle,2021-09-20 16:38:18.550000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+133,Vivaldi Harmony,adyan,2021-09-20 16:38:20.803000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,b7,2021-09-20 16:40:39.954999+00:00,2021-09-20 16:55:26.630000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+134,Vivaldi Harmony,gorkemk,2021-09-20 16:38:21.505000+00:00,[],True,1.0,gorkemk,True,cash,25.5,vharmonyadmin,d4,2021-09-20 16:38:25.470000+00:00,2021-09-20 18:49:25.711000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+135,Vivaldi Görükle,vgorukle,2021-09-20 16:38:24.662000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,DAMLA SAKIZLI TÜRK KAHVESİ ,,,,,
+136,Vivaldi Görükle,vgorukle,2021-09-20 16:38:30.460000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,VİVALDİ BROWNIE,,,,,
+137,Vivaldi Görükle,vgorukle,2021-09-20 16:38:32.223000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,VİVALDİ BROWNIE,,,,,
+138,Vivaldi Harmony,adyan,2021-09-20 16:38:42.609000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,b7,2021-09-20 16:40:41.338999+00:00,2021-09-20 16:55:26.630000+00:00,SU,,,,,
+139,Vivaldi Görükle,vgorukle,2021-09-20 16:39:26.043000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b5,,2021-09-20 16:52:15.709000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+140,Vivaldi Görükle,vgorukle,2021-09-20 16:40:39.841000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,SU,,,,,
+141,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 16:41:49.394999+00:00,[],True,2.0,,True,card,10.0,vivaldisoganli,b1,,2021-09-20 17:00:17.148000+00:00,SİYAH ÇAY,,,,,
+142,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 16:42:00.746999+00:00,[],True,1.0,,True,cash,5.0,vivaldisoganli,s6,,2021-09-20 17:04:15.167000+00:00,SU,,,,,
+143,Vivaldi Harmony,adyan,2021-09-20 16:42:58.839999+00:00,[],True,1.0,gorkemk,True,card,20.009999999999998,vharmonyadmin,d5,2021-09-20 16:48:56.102999+00:00,2021-09-20 17:37:34.957000+00:00,AROMALI ICE MOCHA,cramel ,True,2021-09-20 17:37:30.281000+00:00,vharmonyadmin,13.0
+144,Vivaldi Harmony,adyan,2021-09-20 16:43:14.977999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,d5,2021-09-20 16:48:57.052000+00:00,2021-09-20 17:37:34.957000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 17:37:30.281000+00:00,vharmonyadmin,13.0
+145,Vivaldi Harmony,adyan,2021-09-20 16:43:17.538000+00:00,[],True,1.0,gorkemk,True,card,5.0024999999999995,vharmonyadmin,d5,2021-09-20 16:48:58.118000+00:00,2021-09-20 17:37:34.957000+00:00,SU,,True,2021-09-20 17:37:30.281000+00:00,vharmonyadmin,13.0
+146,Vivaldi Harmony,adyan,2021-09-20 16:43:22.211999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,d5,2021-09-20 16:48:59.217999+00:00,2021-09-20 17:37:34.957000+00:00,Vivaldi Brownie,,True,2021-09-20 17:37:30.281000+00:00,vharmonyadmin,13.0
+147,Vivaldi Harmony,adyan,2021-09-20 16:45:13.295000+00:00,[],True,1.0,gorkemk,True,card,3.0,vharmonyadmin,b1,2021-09-20 16:45:32.903000+00:00,2021-09-20 17:23:28.613000+00:00,SİYAH ÇAY,,True,2021-09-20 17:23:24.180000+00:00,vharmonyadmin,40.0
+148,Vivaldi Harmony,adyan,2021-09-20 16:45:21.944000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b1,2021-09-20 16:45:31.927000+00:00,2021-09-20 17:23:17.303000+00:00,Vivaldi Brownie,,,,,
+149,Vivaldi Harmony,adyan,2021-09-20 16:46:21.089999+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d10,2021-09-20 16:49:01.052000+00:00,2021-09-20 17:00:33.055000+00:00,SU,,,,,
+150,Vivaldi Harmony,adyan,2021-09-20 16:46:24.164999+00:00,[],True,1.0,gorkemk,True,card,20.0,vharmonyadmin,d10,2021-09-20 16:49:00.151999+00:00,2021-09-20 17:00:33.055000+00:00,ÇİLEKLİ LİMONATA,,,,,
+151,Vivaldi Harmony,adyan,2021-09-20 16:51:09.902000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,d17,2021-09-20 16:54:52.506000+00:00,2021-09-20 17:17:56.672000+00:00,SİYAH ÇAY,,,,,
+152,Vivaldi Görükle,vgorukle,2021-09-20 16:54:23.189000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 17:17:28.321000+00:00,SU,,,,,
+153,Vivaldi Harmony,adyan,2021-09-20 16:55:41.707999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d17,2021-09-20 16:56:28.757999+00:00,2021-09-20 17:17:56.672000+00:00,SİYAH ÇAY,,,,,
+154,Vivaldi Görükle,vgorukle,2021-09-20 16:57:01.449000+00:00,[],True,145.0,,True,card,43.5,vgorukle,b11,,2021-09-20 16:58:19.166000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+155,Vivaldi Harmony,gorkemk,2021-09-20 16:57:17.997999+00:00,[],True,2.0,gorkemk,True,cash,8.5,vharmonyadmin,d4,2021-09-20 16:57:20.982000+00:00,2021-09-20 18:49:25.711000+00:00,SİYAH ÇAY,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+156,Vivaldi Harmony,adyan,2021-09-20 16:58:17.377000+00:00,[],True,1.0,gorkemk,True,card,16.0,vharmonyadmin,d19,2021-09-20 17:03:58.713999+00:00,2021-09-20 17:20:00.776000+00:00,COFFEE LATTE,,,,,
+157,Vivaldi Harmony,adyan,2021-09-20 16:58:44.325000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d8,2021-09-20 17:04:00.206000+00:00,2021-09-20 19:01:27.536000+00:00,GELENEKSEL TÜRK KAHVESİ,orta,,,,
+158,Vivaldi Harmony,adyan,2021-09-20 16:58:45.807000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d8,2021-09-20 17:04:02.197999+00:00,2021-09-20 19:01:27.536000+00:00,SİYAH ÇAY,,,,,
+159,Vivaldi Harmony,adyan,2021-09-20 16:58:48.611000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d8,2021-09-20 17:08:27.096999+00:00,2021-09-20 19:01:27.536000+00:00,SU,,,,,
+160,Vivaldi Harmony,adyan,2021-09-20 16:58:52.660000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d8,2021-09-20 17:08:28.239000+00:00,2021-09-20 19:01:27.536000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+161,Vivaldi Harmony,adyan,2021-09-20 16:59:56.699000+00:00,[],True,1.0,adyan,True,card,4.455,vharmonyadmin,d11,2021-09-20 17:06:09.523000+00:00,2021-09-20 17:40:36.729000+00:00,SİYAH ÇAY,,True,2021-09-20 17:39:00.925000+00:00,vharmonyadmin,10.0
+162,Vivaldi Harmony,adyan,2021-09-20 17:01:43.496000+00:00,[],True,2.0,gorkemk,True,card,60.0,vharmonyadmin,d16,2021-09-20 17:08:40.476999+00:00,2021-09-20 17:31:41.937000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+163,Vivaldi Harmony,adyan,2021-09-20 17:01:52.420000+00:00,[],True,2.0,gorkemk,True,card,10.0,vharmonyadmin,d16,2021-09-20 17:03:55.121999+00:00,2021-09-20 17:31:41.937000+00:00,SİYAH ÇAY,,,,,
+164,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 17:04:39.210999+00:00,[],True,2.0,,True,cash,10.0,vivaldisoganli,b1,,2021-09-20 17:40:36.351999+00:00,SİYAH ÇAY,,,,,
+165,Vivaldi Harmony,adyan,2021-09-20 17:05:45.099999+00:00,[],True,2.0,gorkemk,True,card,10.0,vharmonyadmin,b8,2021-09-20 17:08:41.397000+00:00,2021-09-20 17:31:13.872000+00:00,SİYAH ÇAY,,,,,
+166,Vivaldi Harmony,adyan,2021-09-20 17:05:59.181999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b8,2021-09-20 17:08:42.288000+00:00,2021-09-20 17:31:13.872000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+167,Vivaldi Harmony,adyan,2021-09-20 17:09:28.020999+00:00,[],True,1.0,gorkemk,True,card,24.948,vharmonyadmin,d11,2021-09-20 17:14:36.908999+00:00,2021-09-20 17:40:36.729000+00:00,Vivaldi tiremisu,,True,2021-09-20 17:39:00.925000+00:00,vharmonyadmin,10.0
+168,Vivaldi Harmony,adyan,2021-09-20 17:09:34.861999+00:00,[],True,2.0,gorkemk,True,card,26.73,vharmonyadmin,d11,2021-09-20 17:13:25.677999+00:00,2021-09-20 17:40:36.729000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-20 17:39:00.925000+00:00,vharmonyadmin,10.0
+169,Vivaldi Harmony,adyan,2021-09-20 17:09:59.526999+00:00,[],True,1.0,gorkemk,True,card,26.73,vharmonyadmin,d11,2021-09-20 17:14:37.717999+00:00,2021-09-20 17:40:36.729000+00:00,SAN SEBASTİAN CHEESECAKE,yanında ,True,2021-09-20 17:39:00.925000+00:00,vharmonyadmin,10.0
+170,Vivaldi Harmony,adyan,2021-09-20 17:10:11.977999+00:00,[],True,1.0,gorkemk,True,card,18.0,vharmonyadmin,d3,2021-09-20 17:13:27.546000+00:00,2021-09-20 17:32:21.036000+00:00,EL YAPIMI LİMONATA,,,,,
+171,Vivaldi Harmony,adyan,2021-09-20 17:10:14.533999+00:00,[],True,1.0,gorkemk,True,card,18.0,vharmonyadmin,d3,2021-09-20 17:13:28.403000+00:00,2021-09-20 17:32:21.036000+00:00,EL YAPIMI LİMONATA,,,,,
+172,Vivaldi Harmony,adyan,2021-09-20 17:10:32.376000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d2,2021-09-20 17:13:18.345000+00:00,2021-09-20 17:47:18.632000+00:00,SİYAH ÇAY,,,,,
+173,Vivaldi Harmony,adyan,2021-09-20 17:12:50.210000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d2,2021-09-20 17:14:38.480999+00:00,2021-09-20 17:47:18.632000+00:00,SİYAH ÇAY,,,,,
+174,Vivaldi Harmony,adyan,2021-09-20 17:17:39.244999+00:00,[],True,1.0,gorkemk,True,cash,3.0,vharmonyadmin,b2,2021-09-20 17:18:45.500999+00:00,2021-09-20 17:43:32.004000+00:00,SİYAH ÇAY,,True,2021-09-20 17:43:27.736000+00:00,vharmonyadmin,40.0
+175,Vivaldi Harmony,adyan,2021-09-20 17:18:46.470999+00:00,[],True,1.0,gorkemk,True,cash,34.5,vharmonyadmin,d1,2021-09-20 17:24:40.398000+00:00,2021-09-20 19:11:28.140000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+176,Vivaldi Harmony,adyan,2021-09-20 17:18:50.687000+00:00,[],True,1.0,gorkemk,True,cash,34.5,vharmonyadmin,d1,2021-09-20 17:24:41.963999+00:00,2021-09-20 19:11:28.140000+00:00,Vivaldi Brownie,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+177,Vivaldi Harmony,adyan,2021-09-20 17:19:30.934000+00:00,[],True,1.0,gorkemk,True,cash,23.0,vharmonyadmin,d1,2021-09-20 17:24:43.631000+00:00,2021-09-20 19:11:28.140000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+178,Vivaldi Görükle,vgorukle,2021-09-20 17:20:01.529000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+179,Vivaldi Görükle,vgorukle,2021-09-20 17:20:03.065000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+180,Vivaldi Görükle,vgorukle,2021-09-20 17:20:27.235000+00:00,[],True,125.0,,True,card,37.5,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+181,Vivaldi Görükle,vgorukle,2021-09-20 17:20:37.368000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-20 17:41:29.329000+00:00,SİYAH ÇAY,,,,,
+182,Vivaldi Görükle,vgorukle,2021-09-20 17:20:38.596000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-20 17:41:29.329000+00:00,SİYAH ÇAY,,,,,
+183,Vivaldi Görükle,vgorukle,2021-09-20 17:20:39.815000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-20 17:41:29.329000+00:00,SİYAH ÇAY,,,,,
+184,Vivaldi Harmony,adyan,2021-09-20 17:20:50.573999+00:00,[],True,2.0,gorkemk,True,cash,46.0,vharmonyadmin,d1,2021-09-20 17:24:45.473999+00:00,2021-09-20 19:11:28.140000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+185,Vivaldi Harmony,adyan,2021-09-20 17:21:02.779999+00:00,[],True,1.0,gorkemk,True,cash,18.4,vharmonyadmin,d1,2021-09-20 17:26:30.453999+00:00,2021-09-20 19:11:28.140000+00:00,COFFEE CORTADO ,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+186,Vivaldi Harmony,adyan,2021-09-20 17:21:08.720999+00:00,[],True,1.0,gorkemk,True,cash,34.5,vharmonyadmin,d1,2021-09-20 17:25:03.605000+00:00,2021-09-20 19:11:28.140000+00:00,VİVALDİ MUZ,,True,2021-09-20 17:34:26.532000+00:00,vharmonyadmin,-15.0
+187,Vivaldi Harmony,adyan,2021-09-20 17:22:04.430000+00:00,[],True,1.0,gorkemk,True,cash,19.0,vharmonyadmin,b4,2021-09-20 17:26:31.552000+00:00,2021-09-20 17:48:59.790000+00:00,SICAK ÇİKOLATA,,,,,
+188,Vivaldi Harmony,adyan,2021-09-20 17:26:08.940000+00:00,[],True,1.0,gorkemk,True,card,4.455,vharmonyadmin,d11,2021-09-20 17:29:23.844000+00:00,2021-09-20 17:40:36.729000+00:00,SU,buzlu ,True,2021-09-20 17:39:00.925000+00:00,vharmonyadmin,10.0
+189,Vivaldi Harmony,adyan,2021-09-20 17:26:15.910000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d8,2021-09-20 17:29:25.720999+00:00,2021-09-20 19:01:27.536000+00:00,SİYAH ÇAY,,,,,
+190,Vivaldi Görükle,vgorukle,2021-09-20 17:27:08.718000+00:00,[],True,210.0,,True,card,63.0,vgorukle,b3,,2021-09-20 17:27:14.220000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+191,Vivaldi Görükle,vgorukle,2021-09-20 17:27:23.096000+00:00,[],True,1.0,,True,cash,18.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,BELGİAN CHOCO FİLTRE KAHVE,,,,,
+192,Vivaldi Görükle,vgorukle,2021-09-20 17:27:25.080000+00:00,[],True,1.0,,True,cash,18.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,BELGİAN CHOCO FİLTRE KAHVE,,,,,
+193,Vivaldi Görükle,vgorukle,2021-09-20 17:27:29.125000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,SU,,,,,
+194,Vivaldi Görükle,vgorukle,2021-09-20 17:27:30.406000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,SU,,,,,
+195,Vivaldi Görükle,vgorukle,2021-09-20 17:27:43.513000+00:00,[],True,1.0,,True,cash,30.0,vgorukle,b9,,2021-09-20 17:58:03.291000+00:00,VİVALDİ BROWNIE,,,,,
+196,Vivaldi Görükle,vgorukle,2021-09-20 17:27:48.678000+00:00,[],True,1.0,,True,cash,28.0,vgorukle,b9,,2021-09-20 17:58:03.291000+00:00,Vivaldi Tiramisu,,,,,
+197,Vivaldi Görükle,vgorukle,2021-09-20 17:27:51.402000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-20 17:58:03.291000+00:00,SİYAH ÇAY,,,,,
+198,Vivaldi Görükle,vgorukle,2021-09-20 17:27:52.677000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-20 17:58:03.291000+00:00,SİYAH ÇAY,,,,,
+199,Vivaldi Görükle,vgorukle,2021-09-20 17:27:56.496000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-20 17:58:03.291000+00:00,SU,,,,,
+200,Vivaldi Görükle,vgorukle,2021-09-20 17:28:07.475000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-20 17:41:29.329000+00:00,SİYAH ÇAY,,,,,
+201,Vivaldi Görükle,vgorukle,2021-09-20 17:28:09.142000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-20 17:41:29.329000+00:00,SİYAH ÇAY,,,,,
+202,Vivaldi Harmony,adyan,2021-09-20 17:31:10.921999+00:00,[],True,1.0,gorkemk,True,cash,20.0,vharmonyadmin,d1,2021-09-20 17:39:13.280999+00:00,2021-09-20 19:11:28.140000+00:00,ÇİLEKLİ LİMONATA,,,,,
+203,Vivaldi Harmony,adyan,2021-09-20 17:31:34.401000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d8,2021-09-20 17:37:26.253000+00:00,2021-09-20 19:01:27.536000+00:00,GELENEKSEL TÜRK KAHVESİ,orta,,,,
+204,Vivaldi Harmony,adyan,2021-09-20 17:31:44.335999+00:00,[],True,2.0,gorkemk,True,card,15.3,vharmonyadmin,d7,2021-09-20 17:37:27.177000+00:00,2021-09-20 17:56:23.596000+00:00,Fincan Çay,,True,2021-09-20 17:55:43.099000+00:00,vharmonyadmin,15.0
+205,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 17:37:11.982000+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,s6,,2021-09-20 17:37:35.838000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+206,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 17:37:16.267999+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,s6,,2021-09-20 17:37:35.838000+00:00,VİVALDİ ÇİLEK,,,,,
+207,Vivaldi Özlüce,cozluceadmin,2021-09-20 17:38:22.130000+00:00,[],True,2.0,,True,card,28.0,cozluceadmin,b8,,2021-09-20 18:04:13.578000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+208,Vivaldi Harmony,adyan,2021-09-20 17:38:28.851000+00:00,[],True,2.0,gorkemk,True,cash,60.0,vharmonyadmin,d16,2021-09-20 17:42:47.621999+00:00,2021-09-20 18:23:43.823000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+209,Vivaldi Özlüce,cozluceadmin,2021-09-20 17:38:34.531000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b8,,2021-09-20 18:04:13.578000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+210,Vivaldi Harmony,adyan,2021-09-20 17:38:37.291000+00:00,[],True,2.0,gorkemk,True,cash,28.0,vharmonyadmin,d16,2021-09-20 17:42:46.638000+00:00,2021-09-20 18:23:43.823000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+211,Vivaldi Özlüce,cozluceadmin,2021-09-20 17:38:49.769000+00:00,[],True,75.0,,True,card,22.5,cozluceadmin,b8,,2021-09-20 18:04:13.578000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+212,Vivaldi Görükle,vgorukle,2021-09-20 17:42:11.568000+00:00,[],True,1.0,,True,cash,12.0,vgorukle,b10,,2021-09-20 18:36:28.592000+00:00, ESPRESSO,,,,,
+213,Vivaldi Görükle,vgorukle,2021-09-20 17:42:15.487000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b10,,2021-09-20 18:36:28.592000+00:00,SİYAH ÇAY,,,,,
+214,Vivaldi Özlüce,cozluceadmin,2021-09-20 17:48:50.391000+00:00,[],True,40.0,,True,card,12.0,cozluceadmin,b8,,2021-09-20 18:04:13.578000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+215,Vivaldi Harmony,adyan,2021-09-20 17:49:02.756000+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,d18,2021-09-20 17:52:56.266999+00:00,2021-09-20 18:58:20.084000+00:00,DOUBLE ESPRESSO,,,,,
+216,Vivaldi Harmony,adyan,2021-09-20 17:49:04.489000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d18,2021-09-20 17:52:57.056999+00:00,2021-09-20 18:58:20.084000+00:00,COFFEE LATTE,,,,,
+217,Vivaldi Görükle,vgorukle,2021-09-20 17:49:05.050000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+218,Vivaldi Görükle,vgorukle,2021-09-20 17:49:06.093000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+219,Vivaldi Görükle,vgorukle,2021-09-20 17:49:15.763000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b4,,2021-09-20 18:03:17.192000+00:00,SİYAH ÇAY,,,,,
+220,Vivaldi Görükle,vgorukle,2021-09-20 17:49:16.708000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b4,,2021-09-20 18:03:17.192000+00:00,SİYAH ÇAY,,,,,
+221,Vivaldi Harmony,adyan,2021-09-20 17:50:02.267999+00:00,[],True,3.0,adyan,True,card,54.0,vharmonyadmin,s2,2021-09-20 17:55:06.601999+00:00,2021-09-20 17:58:09.066000+00:00,AŞK-I  REYHAN,k/ take away ,,,,
+222,Vivaldi Harmony,vharmonyadmin,2021-09-20 17:50:25.659000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,s2,,2021-09-20 17:58:09.066000+00:00,Vivaldi Bomba,,,,,
+223,Vivaldi Harmony,vharmonyadmin,2021-09-20 17:50:42.808000+00:00,[],True,130.0,,True,card,39.0,vharmonyadmin,s2,,2021-09-20 17:58:09.066000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+224,Vivaldi Harmony,vharmonyadmin,2021-09-20 17:51:36.972000+00:00,[],True,1.0,,True,card,295.0,vharmonyadmin,s2,,2021-09-20 17:58:09.066000+00:00,BAHAR KUTU KOLEKSİYONU 1200GR LACİVERT,,,,,
+225,Vivaldi Harmony,vharmonyadmin,2021-09-20 17:52:47.009000+00:00,[],True,45.0,,True,cash,13.5,vharmonyadmin,d18,,2021-09-20 18:58:20.084000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+226,Vivaldi Harmony,adyan,2021-09-20 17:55:36.684000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,d18,2021-09-20 17:59:36.230999+00:00,2021-09-20 18:58:20.084000+00:00,SU,,,,,
+227,Vivaldi Görükle,vgorukle,2021-09-20 17:56:07.880000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,SİYAH ÇAY,,,,,
+228,Vivaldi Görükle,vgorukle,2021-09-20 17:56:09.693000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b2,,2021-09-20 17:56:50.951000+00:00,SİYAH ÇAY,,,,,
+229,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 18:01:25.599999+00:00,[],True,1.0,,True,card,30.0,vivaldisoganli,b1,,2021-09-20 19:44:45.142999+00:00,VİVALDİ ÇİLEK,,,,,
+230,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 18:01:34.301000+00:00,[],True,1.0,,True,card,30.0,vivaldisoganli,b1,,2021-09-20 19:44:45.142999+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+231,Vivaldi Görükle,vgorukle,2021-09-20 18:03:24.676000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+232,Vivaldi Görükle,vgorukle,2021-09-20 18:03:32.830000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b10,,2021-09-20 18:36:28.592000+00:00,SİYAH ÇAY,,,,,
+233,Vivaldi Görükle,vgorukle,2021-09-20 18:03:42.593000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b10,,2021-09-20 18:36:28.592000+00:00,SU,,,,,
+234,Vivaldi Görükle,vgorukle,2021-09-20 18:03:56.484000+00:00,[],True,1.0,,True,cash,15.0,vgorukle,b2,,2021-09-20 18:51:49.702000+00:00,FİLTRE KAHVE,,,,,
+235,Vivaldi Görükle,vgorukle,2021-09-20 18:04:04.851000+00:00,[],True,1.0,,True,cash,16.0,vgorukle,b2,,2021-09-20 18:51:49.702000+00:00,COFFEE CORTADO ,,,,,
+236,Vivaldi Özlüce,cozluceadmin,2021-09-20 18:08:18.385000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b11,,2021-09-20 18:08:58.726000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+237,Vivaldi Özlüce,cozluceadmin,2021-09-20 18:08:29.107000+00:00,[],True,2.0,,True,card,36.0,cozluceadmin,b11,,2021-09-20 18:08:58.726000+00:00,EL YAPIMI LİMONATA,,,,,
+238,Vivaldi Görükle,vgorukle,2021-09-20 18:08:35.893000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b10,,2021-09-20 18:36:28.592000+00:00,SİYAH ÇAY,,,,,
+239,Vivaldi Harmony,adyan,2021-09-20 18:08:49.667000+00:00,[],True,1.0,adyan,True,cash,30.0,vharmonyadmin,d6,2021-09-20 18:13:20.075999+00:00,2021-09-20 18:21:28.930000+00:00,Vivaldi Brownie,,,,,
+240,Vivaldi Harmony,adyan,2021-09-20 18:08:52.677000+00:00,[],True,1.0,adyan,True,cash,30.0,vharmonyadmin,d6,2021-09-20 18:12:59.246000+00:00,2021-09-20 18:21:28.930000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+241,Vivaldi Harmony,adyan,2021-09-20 18:08:59.265000+00:00,[],True,1.0,adyan,True,cash,14.0,vharmonyadmin,d6,2021-09-20 18:16:10.934000+00:00,2021-09-20 18:21:28.930000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+242,Vivaldi Harmony,adyan,2021-09-20 18:09:01.863000+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,d6,2021-09-20 18:13:18.601000+00:00,2021-09-20 18:21:28.930000+00:00,SU,,,,,
+243,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 18:12:29.957999+00:00,[],True,1.0,,True,card,5.0,vivaldisoganli,b1,,2021-09-20 19:44:45.142999+00:00,SU,,,,,
+244,Vivaldi Görükle,vgorukle,2021-09-20 18:16:41.880000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+245,Vivaldi Görükle,vgorukle,2021-09-20 18:16:43.296999+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 18:33:02.213000+00:00,SİYAH ÇAY,,,,,
+246,Vivaldi Görükle,vgorukle,2021-09-20 18:16:51.134000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 19:12:53.376000+00:00,SİYAH ÇAY,,,,,
+247,Vivaldi Harmony,adyan,2021-09-20 18:18:01.598999+00:00,[],True,3.0,adyan,True,cash,15.0,vharmonyadmin,d2,2021-09-20 18:19:52.158999+00:00,2021-09-20 18:38:33.642000+00:00,SİYAH ÇAY,,,,,
+248,Vivaldi Harmony,adyan,2021-09-20 18:21:59.031000+00:00,[],True,3.0,gorkemk,True,card,90.045,vharmonyadmin,d10,2021-09-20 18:27:25.621999+00:00,2021-09-20 19:30:52.662000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 19:30:14.992000+00:00,vharmonyadmin,13.0
+249,Vivaldi Harmony,adyan,2021-09-20 18:22:08.282000+00:00,[],True,1.0,gorkemk,True,cash,18.009,vharmonyadmin,d10,2021-09-20 18:29:09.230999+00:00,2021-09-20 19:30:44.127000+00:00,AŞK-I  REYHAN,,True,2021-09-20 19:30:14.992000+00:00,vharmonyadmin,13.0
+250,Vivaldi Harmony,adyan,2021-09-20 18:22:37.050000+00:00,[],True,5.0,gorkemk,True,card,90.045,vharmonyadmin,d10,2021-09-20 18:29:10.747999+00:00,2021-09-20 19:30:52.662000+00:00,EL YAPIMI LİMONATA,k,True,2021-09-20 19:30:14.992000+00:00,vharmonyadmin,13.0
+251,Vivaldi Harmony,adyan,2021-09-20 18:22:41.407000+00:00,[],True,3.0,gorkemk,True,cash,15.0075,vharmonyadmin,d10,2021-09-20 18:27:27.315000+00:00,2021-09-20 19:30:47.106000+00:00,SU,,True,2021-09-20 19:30:14.992000+00:00,vharmonyadmin,13.0
+252,Vivaldi Harmony,adyan,2021-09-20 18:23:11.868000+00:00,[],True,1.0,gorkemk,True,cash,4.25,vharmonyadmin,d4,2021-09-20 18:24:49.776000+00:00,2021-09-20 18:49:25.711000+00:00,SU,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+253,Vivaldi Harmony,adyan,2021-09-20 18:23:15.569000+00:00,[],True,2.0,gorkemk,True,cash,11.9,vharmonyadmin,d4,2021-09-20 18:24:50.750000+00:00,2021-09-20 18:49:25.711000+00:00,SODA,,True,2021-09-20 18:47:28.524000+00:00,vharmonyadmin,15.0
+254,Vivaldi Görükle,vgorukle,2021-09-20 18:29:33.968000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b9,,2021-09-20 18:49:54.928000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+255,Vivaldi Görükle,vgorukle,2021-09-20 18:29:42.840000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b9,,2021-09-20 18:49:54.928000+00:00,VİVALDİ MUZ,,,,,
+256,Vivaldi Görükle,vgorukle,2021-09-20 18:29:46.437000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b9,,2021-09-20 18:49:54.928000+00:00,SİYAH ÇAY,,,,,
+257,Vivaldi Görükle,vgorukle,2021-09-20 18:30:12.207000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-20 19:12:53.376000+00:00,VİVALDİ MUZ,,,,,
+258,Vivaldi Görükle,vgorukle,2021-09-20 18:35:03.928000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b1,,2021-09-20 19:12:53.376000+00:00,FİLTRE KAHVE,,,,,
+259,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 18:38:04.526000+00:00,[],True,2.0,,True,cash,10.0,vivaldisoganli,s6,,2021-09-20 19:43:44.098000+00:00,SİYAH ÇAY,,,,,
+260,Vivaldi Görükle,vgorukle,2021-09-20 18:39:14.420000+00:00,[],True,1.0,,True,card,15.0,vgorukle,s1,,2021-09-20 19:07:46.448000+00:00,FİLTRE KAHVE,,,,,
+261,Vivaldi Görükle,vgorukle,2021-09-20 18:39:19.278000+00:00,[],True,1.0,,True,card,16.0,vgorukle,s1,,2021-09-20 19:07:46.448000+00:00,COFFEE LATTE,,,,,
+262,Vivaldi Görükle,vgorukle,2021-09-20 18:39:30.139000+00:00,[],True,50.0,,True,card,15.0,vgorukle,s1,,2021-09-20 19:07:46.448000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+263,Vivaldi Harmony,adyan,2021-09-20 18:42:14.659000+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,b4,2021-09-20 18:48:27.957999+00:00,2021-09-20 19:54:51.938000+00:00,DOUBLE ESPRESSO,,,,,
+264,Vivaldi Harmony,adyan,2021-09-20 18:42:24.442000+00:00,[],True,1.0,gorkemk,True,cash,18.0,vharmonyadmin,b4,2021-09-20 18:48:30.305000+00:00,2021-09-20 19:54:51.938000+00:00,EL YAPIMI LİMONATA,k,,,,
+265,Vivaldi Görükle,vgorukle,2021-09-20 18:42:40.188000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-20 19:12:53.376000+00:00,SU,,,,,
+266,Vivaldi Harmony,adyan,2021-09-20 18:42:53.122999+00:00,[],True,2.0,adyan,True,cash,10.0,vharmonyadmin,d17,2021-09-20 18:43:01.413000+00:00,2021-09-20 19:14:08.960000+00:00,SİYAH ÇAY,,,,,
+267,Vivaldi Görükle,vgorukle,2021-09-20 18:43:02.401000+00:00,[],True,2.0,,True,card,10.0,vgorukle,b9,,2021-09-20 18:49:54.928000+00:00,SU,,,,,
+268,Vivaldi Harmony,vharmonyadmin,2021-09-20 18:45:06.147000+00:00,[],True,1.0,,True,card,295.0,vharmonyadmin,a0,,2021-09-20 18:45:16.711000+00:00,BAHAR KUTU KOLEKSİYONU 1200GR KREM,,,,,
+269,Vivaldi Özlüce,cozluceadmin,2021-09-20 18:49:11.228000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,SU,,,,,
+270,Vivaldi Özlüce,cozluceadmin,2021-09-20 18:49:18.271000+00:00,[],True,2.0,,True,card,28.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+271,Vivaldi Görükle,vgorukle,2021-09-20 18:50:06.135000+00:00,[],True,1.0,,True,card,18.0,vgorukle,b1,,2021-09-20 19:12:53.376000+00:00,EL YAPIMI LİMONATA,,,,,
+272,Vivaldi Özlüce,cozluceadmin,2021-09-20 18:50:36.390000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,SU,,,,,
+273,Vivaldi Harmony,adyan,2021-09-20 18:54:24.244999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,b7,2021-09-20 19:00:49.993000+00:00,2021-09-20 19:18:19.221000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),muz,,,,
+274,Vivaldi Harmony,adyan,2021-09-20 18:54:29.036000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,b7,2021-09-20 19:00:50.868999+00:00,2021-09-20 19:18:19.221000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+275,Vivaldi Harmony,adyan,2021-09-20 18:54:35.153000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,b7,2021-09-20 19:00:51.743999+00:00,2021-09-20 19:18:19.221000+00:00,SİYAH ÇAY,,,,,
+276,Vivaldi Harmony,adyan,2021-09-20 18:55:33.117000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d6,2021-09-20 19:00:52.510999+00:00,2021-09-20 19:13:19.549000+00:00,SİYAH ÇAY,,,,,
+277,Vivaldi Harmony,adyan,2021-09-20 18:55:40.214999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d6,2021-09-20 19:00:53.276999+00:00,2021-09-20 19:13:19.549000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+278,Vivaldi Harmony,adyan,2021-09-20 19:00:55.971000+00:00,[],True,1.0,gorkemk,True,cash,30.015,vharmonyadmin,d16,2021-09-20 19:05:58.651999+00:00,2021-09-20 19:58:29.125000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+279,Vivaldi Harmony,adyan,2021-09-20 19:01:03.492000+00:00,[],True,1.0,gorkemk,True,cash,14.007000000000001,vharmonyadmin,d16,2021-09-20 19:09:54.325999+00:00,2021-09-20 19:58:29.125000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+280,Vivaldi Harmony,adyan,2021-09-20 19:01:08.069000+00:00,[],True,1.0,gorkemk,True,cash,18.009,vharmonyadmin,d16,2021-09-20 19:07:55.671000+00:00,2021-09-20 19:58:29.125000+00:00,COFFEE DARK MOCHA,,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+281,Vivaldi Harmony,adyan,2021-09-20 19:01:11.893000+00:00,[],True,1.0,gorkemk,True,cash,15.0075,vharmonyadmin,d16,2021-09-20 19:07:51.464999+00:00,2021-09-20 19:58:29.125000+00:00,ICE AMERİCANO ,,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+282,Vivaldi Harmony,adyan,2021-09-20 19:01:16.854000+00:00,[],True,1.0,gorkemk,True,cash,30.015,vharmonyadmin,d16,2021-09-20 19:06:00.951999+00:00,2021-09-20 19:58:29.125000+00:00,Vivaldi Brownie,,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+283,Vivaldi Harmony,adyan,2021-09-20 19:01:19.632000+00:00,[],True,1.0,gorkemk,True,cash,5.0024999999999995,vharmonyadmin,d16,2021-09-20 19:07:53.838999+00:00,2021-09-20 19:58:29.125000+00:00,SU,,True,2021-09-20 19:58:24.438000+00:00,vharmonyadmin,13.0
+284,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:01:22.617000+00:00,[],True,3.0,,True,cash,15.0,cozluceadmin,b4,,2021-09-20 19:25:17.756000+00:00,ÇAY,,,,,
+285,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:01:25.983000+00:00,[],True,3.0,,True,cash,15.0,cozluceadmin,b4,,2021-09-20 19:25:17.756000+00:00,SU,,,,,
+286,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:01:31.724000+00:00,[],True,2.0,,True,cash,60.0,cozluceadmin,b4,,2021-09-20 19:25:17.756000+00:00,VİVALDİ ÇİLEK,,,,,
+287,Vivaldi Harmony,adyan,2021-09-20 19:02:09.752000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d2,2021-09-20 19:05:56.667999+00:00,2021-09-20 20:01:48.374000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),çilek ,,,,
+288,Vivaldi Harmony,adyan,2021-09-20 19:02:20.187000+00:00,[],True,2.0,gorkemk,True,card,10.0,vharmonyadmin,d2,2021-09-20 19:09:56.224999+00:00,2021-09-20 20:01:48.374000+00:00,SİYAH ÇAY,,,,,
+289,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:03:15.555000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b8,,2021-09-20 19:39:02.507000+00:00,ÇAY,,,,,
+290,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:03:19.881000+00:00,[],True,1.0,,True,cash,14.0,cozluceadmin,b8,,2021-09-20 19:39:02.507000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+291,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:03:25.543000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b8,,2021-09-20 19:39:02.507000+00:00,SU,,,,,
+292,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:03:34.539000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,b8,,2021-09-20 19:39:02.507000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+293,Vivaldi Harmony,adyan,2021-09-20 19:04:00.200000+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,b7,2021-09-20 19:04:12.164999+00:00,2021-09-20 19:18:19.221000+00:00,SU,,,,,
+294,Vivaldi Harmony,adyan,2021-09-20 19:04:58.342000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,b2,2021-09-20 19:09:55.382999+00:00,2021-09-20 19:16:05.520000+00:00,GELENEKSEL TÜRK KAHVESİ,şekerli ,,,,
+295,Vivaldi Harmony,adyan,2021-09-20 19:05:09.441999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,b2,2021-09-20 19:07:48.938999+00:00,2021-09-20 19:16:05.520000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+296,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:10:00.352000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b4,,2021-09-20 19:25:17.756000+00:00,SU,,,,,
+297,Vivaldi Görükle,vgorukle,2021-09-20 19:13:48.193000+00:00,[],True,1.0,,True,cash,14.4,vgorukle,b7,,2021-09-20 19:14:47.847000+00:00,Reyhan Suyu,,True,2021-09-20 19:14:12.242000+00:00,vgorukle,20.0
+298,Vivaldi Görükle,vgorukle,2021-09-20 19:13:49.349000+00:00,[],True,1.0,,True,cash,14.4,vgorukle,b7,,2021-09-20 19:14:47.847000+00:00,Reyhan Suyu,,True,2021-09-20 19:14:12.242000+00:00,vgorukle,20.0
+299,Vivaldi Harmony,adyan,2021-09-20 19:13:55.790999+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,b2,2021-09-20 19:13:59.000999+00:00,2021-09-20 19:16:05.520000+00:00,SU,,,,,
+300,Vivaldi Harmony,adyan,2021-09-20 19:14:54.687000+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,b2,2021-09-20 19:14:59.927000+00:00,2021-09-20 19:16:05.520000+00:00,SU,,,,,
+301,Vivaldi Harmony,adyan,2021-09-20 19:15:32.611000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d1,2021-09-20 19:17:53.769999+00:00,2021-09-20 19:33:19.674000+00:00,Vivaldi Brownie,,,,,
+302,Vivaldi Harmony,adyan,2021-09-20 19:15:58.418999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d1,2021-09-20 19:17:54.543999+00:00,2021-09-20 19:33:19.674000+00:00,SİYAH ÇAY,,,,,
+303,Vivaldi Harmony,adyan,2021-09-20 19:16:08.059000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,d1,2021-09-20 19:17:55.354000+00:00,2021-09-20 19:33:19.674000+00:00,SİYAH ÇAY,,,,,
+304,Vivaldi Harmony,adyan,2021-09-20 19:16:37.710999+00:00,[],True,2.0,gorkemk,True,cash,6.0,vharmonyadmin,d5,2021-09-20 19:17:57.434999+00:00,2021-09-20 19:57:16.209000+00:00,SİYAH ÇAY,1 açk ,True,2021-09-20 19:57:11.403000+00:00,vharmonyadmin,40.0
+305,Vivaldi Harmony,adyan,2021-09-20 19:17:51.141000+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,b2,2021-09-20 19:17:54.815000+00:00,2021-09-20 19:16:05.520000+00:00,SU,,,,,
+306,Vivaldi Harmony,adyan,2021-09-20 19:18:28.111999+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,s6,2021-09-20 19:20:35.561000+00:00,2021-09-20 19:53:17.841000+00:00,SİYAH ÇAY,,,,,
+307,Vivaldi Harmony,adyan,2021-09-20 19:18:32.894999+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,s6,2021-09-20 19:20:37.303999+00:00,2021-09-20 19:53:17.841000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+308,Vivaldi Harmony,adyan,2021-09-20 19:18:38.177999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s6,2021-09-20 19:20:38.371000+00:00,2021-09-20 19:53:17.841000+00:00,VİVALDİ ÇİLEK,,,,,
+309,Vivaldi Harmony,adyan,2021-09-20 19:22:06.380000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d2,2021-09-20 19:22:55.089999+00:00,2021-09-20 20:01:48.374000+00:00,VİVALDİ ÇİLEK,,,,,
+310,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:25:41.419000+00:00,[],True,2.0,,True,card,10.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,ÇAY,,,,,
+311,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:25:49.195000+00:00,[],True,1.0,,True,card,18.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,AŞK-I REYHAN,,,,,
+312,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:26:58.772000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b8,,2021-09-20 19:39:02.507000+00:00,SU,,,,,
+313,Vivaldi Harmony,adyan,2021-09-20 19:27:43.703000+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,d1,2021-09-20 19:27:47.177000+00:00,2021-09-20 19:33:19.674000+00:00,SU,,,,,
+314,Vivaldi Görükle,vgorukle,2021-09-20 19:28:54.910000+00:00,[],True,1.0,,True,cash,24.0,vgorukle,b8,,2021-09-20 19:29:27.562000+00:00,VİVALDİ ÇİLEK,,True,2021-09-20 19:29:03.372000+00:00,vgorukle,20.0
+315,Vivaldi Görükle,vgorukle,2021-09-20 19:35:55.997000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b2,,2021-09-20 19:36:02.678000+00:00,SİYAH ÇAY,,,,,
+316,Vivaldi Harmony,adyan,2021-09-20 19:36:18.960000+00:00,[],True,3.0,gorkemk,True,cash,9.0,vharmonyadmin,d5,2021-09-20 19:38:04.996999+00:00,2021-09-20 19:57:16.209000+00:00,SİYAH ÇAY,,True,2021-09-20 19:57:11.403000+00:00,vharmonyadmin,40.0
+317,Vivaldi Harmony,adyan,2021-09-20 19:39:03.561000+00:00,[],True,2.0,adyan,True,cash,10.0,vharmonyadmin,s6,2021-09-20 19:39:12.783999+00:00,2021-09-20 19:53:17.841000+00:00,SİYAH ÇAY,,,,,
+318,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:40:56.602000+00:00,[],True,90.0,,True,card,27.0,cozluceadmin,d6,,2021-09-20 19:41:19.392000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+319,Vivaldi Özlüce,cozluceadmin,2021-09-20 19:43:01.289000+00:00,[],True,1.0,,True,cash,25.5,cozluceadmin,b8,,2021-09-20 19:58:33.849000+00:00,VİVALDİ BOMBA,,True,2021-09-20 19:58:02.132000+00:00,cozluceadmin,15.0
+320,Vivaldi Soğanlı,vivaldisoganli,2021-09-20 19:43:54.509999+00:00,[],True,2.0,,True,card,10.0,vivaldisoganli,b1,,2021-09-20 19:44:45.142999+00:00,SİYAH ÇAY,,,,,
+321,Vivaldi Harmony,adyan,2021-09-20 19:55:03.694999+00:00,[],True,1.0,adyan,True,cash,5.0,vharmonyadmin,b4,2021-09-20 19:55:10.796999+00:00,2021-09-20 19:54:51.938000+00:00,SU,,,,,
+322,Vivaldi Görükle,vgorukle,2021-09-20 20:05:46.412000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b8,,2021-09-20 20:11:17.520000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+323,Vivaldi Görükle,vgorukle,2021-09-20 20:05:48.309000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b8,,2021-09-20 20:11:17.520000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+324,Vivaldi Görükle,vgorukle,2021-09-20 20:06:02.165000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b8,,2021-09-20 20:11:17.520000+00:00,AMERİCANO,,,,,
+325,Vivaldi Görükle,vgorukle,2021-09-20 20:06:32.927000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b8,,2021-09-20 20:11:17.520000+00:00,FİLTRE KAHVE,,,,,
+326,Vivaldi Görükle,vgorukle,2021-09-20 20:06:40.848000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b7,,2021-09-20 20:24:16.598000+00:00,VİVALDİ ÇİLEK,,,,,
+327,Vivaldi Görükle,vgorukle,2021-09-20 20:06:52.917000+00:00,[],True,1.0,,True,card,18.0,vgorukle,b7,,2021-09-20 20:24:16.598000+00:00,COFFEE DARK MOCHA,,,,,
+328,Vivaldi Görükle,vgorukle,2021-09-20 20:06:58.303000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-20 20:24:16.598000+00:00,SU,,,,,
+329,Vivaldi Görükle,vgorukle,2021-09-20 20:40:01.153000+00:00,[],True,2.0,,True,cash,60.0,vgorukle,b1,,2021-09-20 20:40:17.384000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+330,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:28:27.764000+00:00,[],True,2.0,,True,cash,60.0,vharmonyadmin,a0,,2021-09-21 07:29:40.830000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+331,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:28:37.379000+00:00,[],True,1.0,,True,cash,15.0,vharmonyadmin,a0,,2021-09-21 07:29:40.830000+00:00,ICE AMERİCANO ,,,,,
+332,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:29:04.509000+00:00,[],True,1.0,,True,cash,17.0,vharmonyadmin,a0,,2021-09-21 07:29:40.830000+00:00,ICE LATTE ,,,,,
+333,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:41:34.876000+00:00,[],True,1.0,,True,cash,16.0,vharmonyadmin,s1,,2021-09-21 08:27:30.942000+00:00,COFFEE CORTADO ,,,,,
+334,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:56:36.447000+00:00,[],True,1.0,,True,cash,14.0,vharmonyadmin,s1,,2021-09-21 08:27:30.942000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+335,Vivaldi Harmony,vharmonyadmin,2021-09-21 07:59:40.841000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,s1,,2021-09-21 08:27:30.942000+00:00,SU,,,,,
+336,Vivaldi Harmony,vharmonyadmin,2021-09-21 08:24:08.198000+00:00,[],True,1.0,,True,cash,7.0,vharmonyadmin,s1,,2021-09-21 08:27:30.942000+00:00,SODA,,,,,
+337,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:10:40.475000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d12,,2021-09-21 09:41:18.693000+00:00,SİYAH ÇAY,,,,,
+338,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:14:44.617000+00:00,[],True,2.0,,True,cash,28.0,vharmonyadmin,d3,,2021-09-21 10:30:12.530000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+339,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:14:53.633000+00:00,[],True,1.0,,True,cash,30.0,vharmonyadmin,d3,,2021-09-21 10:30:12.530000+00:00,Vivaldi Bomba,,,,,
+340,Vivaldi Özlüce,cozluceadmin,2021-09-21 09:25:45.523000+00:00,[],True,2.0,,True,card,10.0,cozluceadmin,b4,,2021-09-21 10:04:22.679000+00:00,ÇAY,,,,,
+341,Vivaldi Özlüce,cozluceadmin,2021-09-21 09:26:10.303000+00:00,[],True,55.0,,True,card,16.5,cozluceadmin,b4,,2021-09-21 10:04:22.679000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+342,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:32:52.307000+00:00,[],True,1.0,,True,cash,14.0,vharmonyadmin,d8,,2021-09-21 10:00:25.590000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+343,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:33:04.159000+00:00,[],True,1.0,,True,cash,18.0,vharmonyadmin,d8,,2021-09-21 10:00:25.590000+00:00,EL YAPIMI LİMONATA,,,,,
+344,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:33:05.710000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d8,,2021-09-21 10:00:25.590000+00:00,SU,,,,,
+345,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:33:18.814000+00:00,[],True,100.0,,True,cash,30.0,vharmonyadmin,d8,,2021-09-21 10:00:25.590000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+346,Vivaldi Görükle,vgorukle,2021-09-21 09:33:21.549000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b4,,2021-09-21 09:49:00.725000+00:00,SİYAH ÇAY,,,,,
+347,Vivaldi Görükle,vgorukle,2021-09-21 09:33:30.007000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b7,,2021-09-21 09:48:39.678000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+348,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:33:31.647000+00:00,[],True,1.0,,True,card,15.0,vharmonyadmin,s2,,2021-09-21 10:17:49.845000+00:00,DOUBLE ESPRESSO,,,,,
+349,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:33:46.866000+00:00,[],True,2.0,,True,card,11.0,vharmonyadmin,s2,,2021-09-21 10:17:49.845000+00:00,ADET ÇİKOLATA,,,,,
+350,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:39:34.218000+00:00,[],True,1.0,,True,card,3.0,vharmonyadmin,s4,,2021-09-21 10:40:35.989000+00:00,SİYAH ÇAY,,True,2021-09-21 10:40:31.268000+00:00,vharmonyadmin,40.0
+351,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:39:37.689000+00:00,[],True,1.0,,True,card,7.0,vharmonyadmin,s4,,2021-09-21 10:39:58.955000+00:00,SODA,,,,,
+352,Vivaldi Görükle,vgorukle,2021-09-21 09:41:46.664000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b4,,2021-09-21 09:49:00.725000+00:00,SİYAH ÇAY,,,,,
+353,Vivaldi Görükle,vgorukle,2021-09-21 09:41:53.664000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 09:48:39.678000+00:00,SİYAH ÇAY,,,,,
+354,Vivaldi Görükle,vgorukle,2021-09-21 09:41:57.532000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 09:48:39.678000+00:00,SU,,,,,
+355,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:42:22.339000+00:00,[],True,2.0,,True,card,11.0,vharmonyadmin,s2,,2021-09-21 10:17:49.845000+00:00,ADET ÇİKOLATA,,,,,
+356,Vivaldi Özlüce,cozluceadmin,2021-09-21 09:48:42.102000+00:00,[],True,2.0,,True,card,10.0,cozluceadmin,b4,,2021-09-21 10:04:22.679000+00:00,ÇAY,,,,,
+357,Vivaldi Özlüce,cozluceadmin,2021-09-21 09:51:04.453000+00:00,[],True,3.0,,True,card,15.0,cozluceadmin,d6,,2021-09-21 10:11:19.570000+00:00,ÇAY,,,,,
+358,Vivaldi Özlüce,cozluceadmin,2021-09-21 09:51:15.404000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,d6,,2021-09-21 10:11:19.570000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+359,Vivaldi Harmony,vharmonyadmin,2021-09-21 09:57:27.106000+00:00,[],True,2.0,,True,cash,28.0,vharmonyadmin,d10,,2021-09-21 10:39:31.836000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+360,Vivaldi Özlüce,cozluceadmin,2021-09-21 10:03:00.512000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,d6,,2021-09-21 10:11:19.570000+00:00,ÇAY,,,,,
+361,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:17:21.807000+00:00,[],True,2.0,,True,card,24.0,vharmonyadmin,s2,,2021-09-21 10:17:49.845000+00:00, ESPRESSO,,,,,
+362,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:22:47.676000+00:00,[],True,235.0,,True,card,70.5,vharmonyadmin,a0,,2021-09-21 10:24:21.605000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+363,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:27:02.526000+00:00,[],True,1.0,,True,card,11.9,vharmonyadmin,b3,,2021-09-21 10:49:29.925000+00:00,GELENEKSEL TÜRK KAHVESİ,,True,2021-09-21 10:49:08.608000+00:00,vharmonyadmin,15.0
+364,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:48:08.062000+00:00,[],True,1.0,,True,cash,17.0,vharmonyadmin,b7,,2021-09-21 10:54:26.796000+00:00,DOUBLE TÜRK KAHVESİ,,,,,
+365,Vivaldi Görükle,vgorukle,2021-09-21 10:50:44.497000+00:00,[],True,1.0,,True,cash,4.5,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,SİYAH ÇAY,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+366,Vivaldi Görükle,vgorukle,2021-09-21 10:50:47.927000+00:00,[],True,1.0,,True,cash,27.0,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,VİVALDİ BOMBA,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+367,Vivaldi Görükle,vgorukle,2021-09-21 10:50:53.979000+00:00,[],True,1.0,,True,cash,14.4,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,COFFEE LATTE,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+368,Vivaldi Görükle,vgorukle,2021-09-21 10:51:01.127000+00:00,[],True,1.0,,True,cash,27.0,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,VİVALDİ BOMBA,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+369,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:56:31.162000+00:00,[],True,2.0,,True,card,30.0,vharmonyadmin,s6,,2021-09-21 11:24:36.538000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,,,,,
+370,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:56:43.001000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,s6,,2021-09-21 11:24:05.144000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+371,Vivaldi Harmony,vharmonyadmin,2021-09-21 10:56:47.426000+00:00,[],True,1.0,,True,card,28.0,vharmonyadmin,s6,,2021-09-21 11:24:36.538000+00:00,Vivaldi tiremisu,,,,,
+372,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:05:39.228000+00:00,[],True,2.0,,True,cash,6.0,vharmonyadmin,d6,,2021-09-21 11:37:50.577000+00:00,SİYAH ÇAY,,True,2021-09-21 11:37:37.448000+00:00,vharmonyadmin,40.0
+373,Vivaldi Görükle,vgorukle,2021-09-21 11:07:42.171000+00:00,[],True,1.0,,True,cash,4.5,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,SİYAH ÇAY,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+374,Vivaldi Görükle,vgorukle,2021-09-21 11:07:43.174000+00:00,[],True,1.0,,True,cash,4.5,vgorukle,b8,,2021-09-21 11:36:05.118000+00:00,SİYAH ÇAY,,True,2021-09-21 11:35:50.927000+00:00,vgorukle,10.0
+375,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:20:57.004000+00:00,[],True,1.0,,True,card,15.0,vharmonyadmin,d8,,2021-09-21 12:12:32.108000+00:00,FİLTRE KAHVE,,,,,
+376,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:20:59.969000+00:00,[],True,1.0,,True,card,16.0,vharmonyadmin,d8,,2021-09-21 12:12:32.108000+00:00,CAPPUCCİNO,,,,,
+377,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:21:05.626000+00:00,[],True,1.0,,True,card,18.0,vharmonyadmin,d8,,2021-09-21 12:12:32.108000+00:00,COFFEE DARK MOCHA,,,,,
+378,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:21:12.415000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,d8,,2021-09-21 12:12:32.108000+00:00,Vivaldi Bomba,,,,,
+379,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:21:15.564000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,d8,,2021-09-21 12:12:32.108000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+380,Vivaldi Görükle,vgorukle,2021-09-21 11:33:48.465000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b2,,2021-09-21 11:34:15.308000+00:00,DİBEK KAHVESİ,,,,,
+381,Vivaldi Görükle,vgorukle,2021-09-21 11:33:52.431000+00:00,[],True,1.0,,True,cash,30.0,vgorukle,b2,,2021-09-21 11:34:15.308000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+382,Vivaldi Görükle,vgorukle,2021-09-21 11:34:42.891000+00:00,[],True,1.0,,True,cash,10.0,vgorukle,b1,,2021-09-21 11:45:47.676000+00:00,CUPCAKE,,,,,
+383,Vivaldi Görükle,vgorukle,2021-09-21 11:34:45.029000+00:00,[],True,1.0,,True,cash,30.0,vgorukle,b1,,2021-09-21 11:45:47.676000+00:00,VİVALDİ ÇİLEK,,,,,
+384,Vivaldi Görükle,vgorukle,2021-09-21 11:34:49.810000+00:00,[],True,1.0,,True,cash,30.0,vgorukle,b1,,2021-09-21 11:45:47.676000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+385,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:37:22.314000+00:00,[],True,2.0,,True,cash,6.0,vharmonyadmin,d6,,2021-09-21 11:37:50.577000+00:00,SİYAH ÇAY,,True,2021-09-21 11:37:37.448000+00:00,vharmonyadmin,40.0
+386,Vivaldi Harmony,vharmonyadmin,2021-09-21 11:42:54.730000+00:00,[],True,2.0,,True,card,28.0,vharmonyadmin,d2,,2021-09-21 12:56:08.382000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+387,Vivaldi Görükle,vgorukle,2021-09-21 11:43:49.709000+00:00,[],True,85.0,,True,cash,25.5,vgorukle,b1,,2021-09-21 11:45:47.676000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+388,Vivaldi Harmony,cerentomak,2021-09-21 11:51:53.065000+00:00,[],True,1.0,vharmonyadmin,True,cash,5.0,vharmonyadmin,d10,2021-09-21 11:55:27.793000+00:00,2021-09-21 12:03:30.604000+00:00,SİYAH ÇAY,,,,,
+389,Vivaldi Harmony,cerentomak,2021-09-21 11:51:54.391000+00:00,[],True,1.0,vharmonyadmin,True,cash,5.0,vharmonyadmin,d10,2021-09-21 11:55:28.988000+00:00,2021-09-21 12:03:30.604000+00:00,SİYAH ÇAY,,,,,
+390,Vivaldi Harmony,cerentomak,2021-09-21 11:52:02.138000+00:00,[],True,1.0,vharmonyadmin,True,cash,3.0,vharmonyadmin,b2,2021-09-21 11:55:30.390000+00:00,2021-09-21 12:01:38.297000+00:00,SİYAH ÇAY,,True,2021-09-21 12:01:32.430000+00:00,vharmonyadmin,40.0
+391,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:01:23.618000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d12,,2021-09-21 12:14:19.593000+00:00,SİYAH ÇAY,,,,,
+392,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:01:24.754000+00:00,[],True,1.0,,True,cash,3.0,vharmonyadmin,b2,,2021-09-21 12:01:38.297000+00:00,SİYAH ÇAY,,True,2021-09-21 12:01:32.430000+00:00,vharmonyadmin,40.0
+393,Vivaldi Görükle,vgorukle,2021-09-21 12:02:09.988000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b2,,2021-09-21 12:54:22.243000+00:00,FİLTRE KAHVE,,,,,
+394,Vivaldi Görükle,vgorukle,2021-09-21 12:02:14.637000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b2,,2021-09-21 12:53:32.413000+00:00,AMERİCANO,,,,,
+395,Vivaldi Görükle,vgorukle,2021-09-21 12:02:16.383000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b2,,2021-09-21 12:53:02.323000+00:00,AMERİCANO,,,,,
+396,Vivaldi Görükle,vgorukle,2021-09-21 12:02:20.900000+00:00,[],True,1.0,,True,card,16.0,vgorukle,b2,,2021-09-21 12:54:22.243000+00:00,COFFEE LATTE,,,,,
+397,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:09:18.217000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d18,,2021-09-21 12:26:24.389000+00:00,SİYAH ÇAY,,,,,
+398,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:09:32.046000+00:00,[],True,2.0,,True,card,28.0,vharmonyadmin,d6,,2021-09-21 14:40:27.753000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+399,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:09:42.512000+00:00,[],True,70.0,,True,card,21.0,vharmonyadmin,d6,,2021-09-21 14:40:27.753000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+400,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:11:24.833000+00:00,[],True,1.0,,True,card,5.0,vharmonyadmin,d2,,2021-09-21 12:56:08.382000+00:00,SU,,,,,
+401,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:19.162000+00:00,[],True,1.0,,True,card,5.0,vharmonyadmin,b6,,2021-09-21 15:38:57.015000+00:00,SİYAH ÇAY,,,,,
+402,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:22.487000+00:00,[],True,1.0,,True,card,15.0,vharmonyadmin,b6,,2021-09-21 15:38:57.015000+00:00,FİLTRE KAHVE,,,,,
+403,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:27.765000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,b6,,2021-09-21 15:38:57.015000+00:00,Vivaldi Bomba,,,,,
+404,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:31.894000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,b6,,2021-09-21 15:38:57.015000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+405,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:37.540000+00:00,[],True,1.0,,True,card,5.0,vharmonyadmin,b4,,2021-09-21 13:11:51.819000+00:00,SİYAH ÇAY,,,,,
+406,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:40.131000+00:00,[],True,1.0,,True,card,14.0,vharmonyadmin,b4,,2021-09-21 13:11:51.819000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+407,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:21:52.729000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,b4,,2021-09-21 13:11:51.819000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+408,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:23:28.567000+00:00,[],True,40.0,,True,cash,12.0,vharmonyadmin,d9,,2021-09-21 12:41:53.606000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+409,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:23:43.710000+00:00,[],True,2.0,,True,cash,30.0,vharmonyadmin,d9,,2021-09-21 12:41:53.606000+00:00,FİLTRE KAHVE,,,,,
+410,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:24:48.895000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d9,,2021-09-21 12:41:53.606000+00:00,SU,,,,,
+411,Vivaldi Görükle,vgorukle,2021-09-21 12:31:46.536000+00:00,[],True,1.0,,True,card,14.0,vgorukle,s1,,2021-09-21 12:38:45.352000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+412,Vivaldi Görükle,vgorukle,2021-09-21 12:31:50.103000+00:00,[],True,1.0,,True,card,15.0,vgorukle,s1,,2021-09-21 12:38:45.352000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,,,,,
+413,Vivaldi Görükle,vgorukle,2021-09-21 12:39:28.700000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b7,,2021-09-21 13:39:58.220000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+414,Vivaldi Görükle,vgorukle,2021-09-21 12:39:30.880000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b7,,2021-09-21 13:39:58.220000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+415,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:41:12.867000+00:00,[],True,1.0,,True,cash,30.0,vharmonyadmin,d9,,2021-09-21 12:41:53.606000+00:00,VİVALDİ MUZ,,,,,
+416,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:41:53.881000+00:00,[],True,2.0,,True,cash,6.0,vharmonyadmin,b1,,2021-09-21 13:23:03.717000+00:00,SİYAH ÇAY,,True,2021-09-21 13:22:59.482000+00:00,vharmonyadmin,40.0
+417,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:42:03.587000+00:00,[],True,2.0,,True,card,10.0,vharmonyadmin,d2,,2021-09-21 12:56:08.382000+00:00,SİYAH ÇAY,,,,,
+418,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:42:13.168000+00:00,[],True,1.0,,True,cash,14.0,vharmonyadmin,d12,,2021-09-21 13:09:01.114000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+419,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:42:24.077000+00:00,[],True,1.0,,True,card,14.0,vharmonyadmin,d4,,2021-09-21 12:47:18.743000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+420,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:42:30.614000+00:00,[],True,1.0,,True,card,15.0,vharmonyadmin,d4,,2021-09-21 12:47:18.743000+00:00,DOUBLE ESPRESSO,,,,,
+421,Vivaldi Özlüce,cozluceadmin,2021-09-21 12:43:53.904000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,s6,,2021-09-21 14:14:33.348000+00:00,VİVALDİ ÇİLEK,,,,,
+422,Vivaldi Özlüce,cozluceadmin,2021-09-21 12:43:57.441000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,s6,,2021-09-21 14:15:29.583000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+423,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:45:28.090000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,d4,,2021-09-21 12:47:18.743000+00:00,VİVALDİ MUZ,,,,,
+424,Vivaldi Özlüce,cozluceadmin,2021-09-21 12:49:25.241000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,s6,,2021-09-21 14:19:17.579000+00:00,ÇAY,,,,,
+425,Vivaldi Özlüce,cozluceadmin,2021-09-21 12:49:31.762000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,s6,,2021-09-21 14:19:17.579000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+426,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:49:59.029000+00:00,[],True,1.0,,True,cash,30.0,vharmonyadmin,d12,,2021-09-21 13:09:01.114000+00:00,VİVALDİ MUZ,,,,,
+427,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:51:54.482000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d12,,2021-09-21 13:09:01.114000+00:00,SİYAH ÇAY,,,,,
+428,Vivaldi Harmony,vharmonyadmin,2021-09-21 12:52:20.980000+00:00,[],True,1.0,,True,cash,15.0,vharmonyadmin,d8,,2021-09-21 13:38:59.088000+00:00,COFFEE FLAT WHİTE ,,,,,
+429,Vivaldi Harmony,adyan,2021-09-21 12:54:20.500000+00:00,[],True,3.0,vharmonyadmin,True,cash,42.0,vharmonyadmin,d5,2021-09-21 13:00:21.024000+00:00,2021-09-21 13:33:16.498000+00:00,DİBEK KAHVESİ,şekerli ,,,,
+430,Vivaldi Harmony,adyan,2021-09-21 12:54:38.997999+00:00,[],True,2.0,vharmonyadmin,True,cash,10.0,vharmonyadmin,d5,2021-09-21 13:00:22.304000+00:00,2021-09-21 13:33:16.498000+00:00,SU,,,,,
+431,Vivaldi Harmony,adyan,2021-09-21 12:54:42.265000+00:00,[],True,1.0,vharmonyadmin,True,cash,30.0,vharmonyadmin,d5,2021-09-21 13:00:23.502000+00:00,2021-09-21 13:33:16.498000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+432,Vivaldi Harmony,adyan,2021-09-21 13:03:41.313999+00:00,[],True,1.0,vharmonyadmin,True,cash,3.0,vharmonyadmin,b1,2021-09-21 13:03:49.764000+00:00,2021-09-21 13:23:03.717000+00:00,SİYAH ÇAY,,True,2021-09-21 13:22:59.482000+00:00,vharmonyadmin,40.0
+433,Vivaldi Özlüce,cozluceadmin,2021-09-21 13:04:06.194000+00:00,[],True,2.0,,True,cash,24.0,cozluceadmin,s3,,2021-09-21 13:48:02.329000+00:00, ESPRESSO,,,,,
+434,Vivaldi Özlüce,cozluceadmin,2021-09-21 13:04:13.428000+00:00,[],True,4.0,,True,cash,14.0,cozluceadmin,s3,,2021-09-21 13:48:02.329000+00:00,ADET ÇİKOLATA,,,,,
+435,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:11:14.752000+00:00,[],True,1.0,,True,card,5.0,vharmonyadmin,b4,,2021-09-21 13:11:51.819000+00:00,SU,,,,,
+436,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:11:41.812000+00:00,[],True,1.0,,True,cash,3.0,vharmonyadmin,d3,,2021-09-21 13:34:41.779000+00:00,SİYAH ÇAY,,True,2021-09-21 13:34:38.246000+00:00,vharmonyadmin,40.0
+437,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:15:47.478000+00:00,[],True,1.0,,True,cash,15.0,vharmonyadmin,d1,,2021-09-21 13:49:59.760000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,,,,,
+438,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:15:49.333000+00:00,[],True,1.0,,True,cash,14.0,vharmonyadmin,d1,,2021-09-21 13:49:59.760000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+439,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:25:00.506000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d1,,2021-09-21 13:49:59.760000+00:00,SU,,,,,
+440,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:25:08.570000+00:00,[],True,1.0,,True,cash,3.0,vharmonyadmin,d16,,2021-09-21 13:50:30.012000+00:00,SİYAH ÇAY,,True,2021-09-21 13:50:20.750000+00:00,vharmonyadmin,40.0
+441,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:32:41.116000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,d5,,2021-09-21 13:33:16.498000+00:00,SU,,,,,
+442,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:35:13.388000+00:00,[],True,2.0,,True,cash,10.0,vharmonyadmin,b1,,2021-09-21 14:12:50.930000+00:00,SİYAH ÇAY,,,,,
+443,Vivaldi Görükle,vgorukle,2021-09-21 13:38:22.216000+00:00,[],True,1.0,,True,card,5.0,vgorukle,s7,,2021-09-21 13:38:26.560000+00:00,SU,,,,,
+444,Vivaldi Özlüce,cozluceadmin,2021-09-21 13:38:39.514000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,s6,,2021-09-21 14:19:17.579000+00:00,ÇAY,,,,,
+445,Vivaldi Görükle,vgorukle,2021-09-21 13:39:34.710000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b7,,2021-09-21 13:39:58.220000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+446,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:40:07.739000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,b4,,2021-09-21 13:48:00.522000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+447,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:41:02.595000+00:00,[],True,30.0,,True,card,9.0,vharmonyadmin,b4,,2021-09-21 13:48:00.522000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+448,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:45:58.863000+00:00,[],True,1.0,,True,cash,15.0,vharmonyadmin,d10,,2021-09-21 14:12:11.776000+00:00,FİLTRE KAHVE,,,,,
+449,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:46:41.418000+00:00,[],True,1.0,,True,cash,18.0,vharmonyadmin,d10,,2021-09-21 14:12:11.776000+00:00,EL YAPIMI LİMONATA,,,,,
+450,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:48:44.158000+00:00,[],True,3.0,,True,card,15.0,vharmonyadmin,d7,,2021-09-21 14:19:18.849000+00:00,SİYAH ÇAY,,,,,
+451,Vivaldi Harmony,vharmonyadmin,2021-09-21 13:48:54.150000+00:00,[],True,3.0,,True,card,90.0,vharmonyadmin,d7,,2021-09-21 14:19:18.849000+00:00,VİVALDİ MUZ,,,,,
+452,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 13:52:54.704999+00:00,[],True,2.0,,True,card,38.0,vivaldisoganli,b1,,2021-09-21 14:51:32.295000+00:00,SICAK ÇİKOLATA,,,,,
+453,Vivaldi Görükle,vgorukle,2021-09-21 13:55:53.686000+00:00,[],True,1.0,,True,cash,15.0,vgorukle,b7,,2021-09-21 14:51:27.406000+00:00,PAPATYA ÇAYI ,,,,,
+454,Vivaldi Görükle,vgorukle,2021-09-21 13:56:04.561000+00:00,[],True,1.0,,True,cash,18.0,vgorukle,b7,,2021-09-21 14:51:27.406000+00:00,Reyhan Suyu,,,,,
+455,Vivaldi Görükle,vgorukle,2021-09-21 13:57:57.636000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b1,,2021-09-21 13:58:52.581000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+456,Vivaldi Görükle,vgorukle,2021-09-21 13:58:03.415000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b1,,2021-09-21 13:58:52.581000+00:00,AMERİCANO,,,,,
+457,Vivaldi Görükle,vgorukle,2021-09-21 13:58:08.490000+00:00,[],True,1.0,,True,card,28.0,vgorukle,b1,,2021-09-21 13:58:52.581000+00:00,Vivaldi Tiramisu,,,,,
+458,Vivaldi Görükle,vgorukle,2021-09-21 13:58:10.634000+00:00,[],True,1.0,,True,card,28.0,vgorukle,b1,,2021-09-21 13:58:52.581000+00:00,Vivaldi Tiramisu,,,,,
+459,Vivaldi Görükle,vgorukle,2021-09-21 13:58:11.876000+00:00,[],True,1.0,,True,card,28.0,vgorukle,b1,,2021-09-21 13:58:52.581000+00:00,Vivaldi Tiramisu,,,,,
+460,Vivaldi Harmony,vharmonyadmin,2021-09-21 14:03:05.836000+00:00,[],True,1.0,,True,cash,14.0,vharmonyadmin,d3,,2021-09-21 14:20:08.020000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+461,Vivaldi Harmony,vharmonyadmin,2021-09-21 14:03:18.950000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,b1,,2021-09-21 14:12:50.930000+00:00,SU,,,,,
+462,Vivaldi Harmony,gorkemk,2021-09-21 14:06:02.721999+00:00,[],True,3.0,gorkemk,True,card,15.0,vharmonyadmin,d7,2021-09-21 14:06:05.869999+00:00,2021-09-21 14:19:18.849000+00:00,SİYAH ÇAY,,,,,
+463,Vivaldi Harmony,gorkemk,2021-09-21 14:07:15.252000+00:00,[],True,2.0,gorkemk,True,cash,0.0,vharmonyadmin,s10,2021-09-21 14:09:19.331000+00:00,2021-09-21 19:45:33.404000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,,True,2021-09-21 19:45:28.695000+00:00,vharmonyadmin,100.0
+464,Vivaldi Harmony,gorkemk,2021-09-21 14:08:37.730999+00:00,[],True,1.0,cerentomak,True,card,3.0,vharmonyadmin,d2,2021-09-21 14:12:23.421000+00:00,2021-09-21 14:37:35.478000+00:00,SİYAH ÇAY,,True,2021-09-21 14:37:31.223000+00:00,vharmonyadmin,40.0
+465,Vivaldi Harmony,gorkemk,2021-09-21 14:08:42.581000+00:00,[],True,1.0,cerentomak,True,card,18.0,vharmonyadmin,d2,2021-09-21 14:12:25.494000+00:00,2021-09-21 14:37:22.926000+00:00,EL YAPIMI LİMONATA,,,,,
+466,Vivaldi Harmony,gorkemk,2021-09-21 14:10:37.420000+00:00,[],True,1.0,cerentomak,True,cash,5.0,vharmonyadmin,d19,2021-09-21 14:14:49.397000+00:00,2021-09-21 14:24:21.893000+00:00,SİYAH ÇAY,demli ,,,,
+467,Vivaldi Harmony,gorkemk,2021-09-21 14:10:46.075999+00:00,[],True,1.0,cerentomak,True,cash,14.0,vharmonyadmin,d19,2021-09-21 14:14:47.136000+00:00,2021-09-21 14:24:21.893000+00:00,GELENEKSEL TÜRK KAHVESİ,az ş,,,,
+468,Vivaldi Özlüce,cozluceadmin,2021-09-21 14:13:38.433000+00:00,[],True,1.0,,True,card,15.0,cozluceadmin,s6,,2021-09-21 14:14:12.147000+00:00,FİLTRE KAHVE,,,,,
+469,Vivaldi Özlüce,cozluceadmin,2021-09-21 14:13:40.623000+00:00,[],True,1.0,,True,cash,15.0,cozluceadmin,s6,,2021-09-21 14:16:02.478000+00:00,FİLTRE KAHVE,,,,,
+470,Vivaldi Harmony,gorkemk,2021-09-21 14:15:53.645999+00:00,[],True,2.0,gorkemk,True,cash,40.0,vharmonyadmin,d13,2021-09-21 14:22:20.674999+00:00,2021-09-21 14:34:17.683000+00:00,ÇİLEKLİ LİMONATA,,,,,
+471,Vivaldi Harmony,gorkemk,2021-09-21 14:16:00.378000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d13,2021-09-21 14:22:21.799000+00:00,2021-09-21 14:34:17.683000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+472,Vivaldi Harmony,gorkemk,2021-09-21 14:16:33.644000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d13,2021-09-21 14:22:22.724999+00:00,2021-09-21 14:34:17.683000+00:00,COFFEE LATTE,,,,,
+473,Vivaldi Harmony,gorkemk,2021-09-21 14:16:54.226999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d13,2021-09-21 14:23:59.815999+00:00,2021-09-21 14:34:17.683000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),çikek,,,,
+474,Vivaldi Harmony,gorkemk,2021-09-21 14:17:23.608000+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,s4,2021-09-21 14:27:16.981000+00:00,2021-09-21 14:38:05.883000+00:00,GELENEKSEL TÜRK KAHVESİ,sade,,,,
+475,Vivaldi Harmony,gorkemk,2021-09-21 14:17:32.556999+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,s4,2021-09-21 14:23:17.706000+00:00,2021-09-21 14:38:05.883000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),çilek,,,,
+476,Vivaldi Harmony,gorkemk,2021-09-21 14:17:35.625000+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,s4,2021-09-21 14:23:19.121000+00:00,2021-09-21 14:38:05.883000+00:00,SU,,,,,
+477,Vivaldi Harmony,gorkemk,2021-09-21 14:21:35.618000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,a0,2021-09-21 14:22:32.323999+00:00,2021-09-21 14:26:23.398000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+478,Vivaldi Harmony,gorkemk,2021-09-21 14:21:44.676000+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,a0,2021-09-21 14:22:33.299000+00:00,2021-09-21 14:26:23.398000+00:00,DOUBLE ESPRESSO,,,,,
+479,Vivaldi Harmony,gorkemk,2021-09-21 14:22:01.427000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,a0,2021-09-21 14:22:34.308000+00:00,2021-09-21 14:26:23.398000+00:00,SU,,,,,
+480,Vivaldi Harmony,gorkemk,2021-09-21 14:23:45.532000+00:00,[],True,2.0,cerentomak,True,card,6.4,vharmonyadmin,d11,2021-09-21 14:27:17.882000+00:00,2021-09-21 14:45:44.534000+00:00,SİYAH ÇAY,,True,2021-09-21 14:45:40.145000+00:00,vharmonyadmin,20.0
+481,Vivaldi Harmony,gorkemk,2021-09-21 14:30:49.960999+00:00,[],True,1.0,cerentomak,True,card,15.4,vharmonyadmin,d4,2021-09-21 14:40:17.812000+00:00,2021-09-21 15:43:00.816000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+482,Vivaldi Harmony,gorkemk,2021-09-21 14:30:55.477999+00:00,[],True,1.0,cerentomak,True,card,17.6,vharmonyadmin,d4,2021-09-21 14:40:19.054000+00:00,2021-09-21 15:43:00.816000+00:00,COFFEE CORTADO ,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+483,Vivaldi Harmony,gorkemk,2021-09-21 14:31:00.802000+00:00,[],True,1.0,cerentomak,True,card,33.0,vharmonyadmin,d4,2021-09-21 14:40:20.082000+00:00,2021-09-21 15:43:00.816000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+484,Vivaldi Özlüce,cozluceadmin,2021-09-21 14:31:15.721000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,b1,,2021-09-21 14:46:07.547000+00:00,ÇAY,,,,,
+485,Vivaldi Özlüce,cozluceadmin,2021-09-21 14:31:20.624000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b1,,2021-09-21 14:46:07.547000+00:00,VİVALDİ MUZ,,,,,
+486,Vivaldi Harmony,gorkemk,2021-09-21 14:35:00.983000+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,d10,2021-09-21 14:38:13.898000+00:00,2021-09-21 15:35:12.361000+00:00,SİYAH ÇAY,açık,,,,
+487,Vivaldi Harmony,gorkemk,2021-09-21 14:35:13.516000+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,d10,2021-09-21 14:38:18.291000+00:00,2021-09-21 15:35:12.361000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+488,Vivaldi Harmony,gorkemk,2021-09-21 14:35:23.770999+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,d10,2021-09-21 14:38:19.753000+00:00,2021-09-21 15:35:12.361000+00:00,VİVALDİ ÇİLEK,,,,,
+489,Vivaldi Harmony,gorkemk,2021-09-21 14:42:39.171000+00:00,[],True,1.0,cerentomak,True,cash,7.0,vharmonyadmin,b1,2021-09-21 14:46:47.872000+00:00,2021-09-21 14:49:36.413000+00:00,SODA,,,,,
+490,Vivaldi Harmony,gorkemk,2021-09-21 14:43:03.581000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d6,2021-09-21 15:04:44.345999+00:00,2021-09-21 15:13:09.332000+00:00,CAPPUCCİNO,extra şat,,,,
+491,Vivaldi Harmony,gorkemk,2021-09-21 14:43:07.346999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d6,2021-09-21 15:04:45.227999+00:00,2021-09-21 15:13:09.332000+00:00,Vivaldi Bomba,,,,,
+492,Vivaldi Harmony,gorkemk,2021-09-21 14:46:03.855999+00:00,[],True,2.0,gorkemk,True,card,6.0,vharmonyadmin,d2,2021-09-21 15:04:46.076999+00:00,2021-09-21 15:20:40.075000+00:00,SİYAH ÇAY,açık ,True,2021-09-21 15:20:29.412000+00:00,vharmonyadmin,40.0
+493,Vivaldi Harmony,vharmonyadmin,2021-09-21 14:57:55.554000+00:00,[],True,1.0,,True,cash,17.0,vharmonyadmin,a0,,2021-09-21 14:58:19.823000+00:00,ICE LATTE ,,,,,
+494,Vivaldi Harmony,adyan,2021-09-21 14:58:56.127000+00:00,[],True,2.0,gorkemk,True,card,10.0,vharmonyadmin,d9,2021-09-21 15:04:51.813999+00:00,2021-09-21 15:34:37.308000+00:00,SİYAH ÇAY,,,,,
+495,Vivaldi Harmony,adyan,2021-09-21 14:59:03.059999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d9,2021-09-21 15:04:53.279999+00:00,2021-09-21 15:34:37.308000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+496,Vivaldi Harmony,adyan,2021-09-21 14:59:05.910000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d9,2021-09-21 15:04:54.135999+00:00,2021-09-21 15:34:37.308000+00:00,Vivaldi Bomba,,,,,
+497,Vivaldi Harmony,adyan,2021-09-21 15:03:03.769000+00:00,[],True,1.0,gorkemk,True,card,33.0,vharmonyadmin,d4,2021-09-21 15:08:23.171999+00:00,2021-09-21 15:43:00.816000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+498,Vivaldi Harmony,adyan,2021-09-21 15:07:39.197000+00:00,[],True,1.0,gorkemk,True,card,3.0,vharmonyadmin,d2,2021-09-21 15:08:24.328000+00:00,2021-09-21 15:20:40.075000+00:00,SİYAH ÇAY,açk ,True,2021-09-21 15:20:29.412000+00:00,vharmonyadmin,40.0
+499,Vivaldi Harmony,adyan,2021-09-21 15:07:48.364000+00:00,[],True,1.0,cerentomak,True,card,16.0,vharmonyadmin,b1,2021-09-21 15:12:15.323000+00:00,2021-09-21 15:43:17.375000+00:00,COFFEE CORTADO ,,,,,
+500,Vivaldi Harmony,gorkemk,2021-09-21 15:16:18.841000+00:00,[],True,1.0,cerentomak,True,card,15.4,vharmonyadmin,d4,2021-09-21 15:27:48.605000+00:00,2021-09-21 15:43:00.816000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+501,Vivaldi Harmony,adyan,2021-09-21 15:16:54.443000+00:00,[],True,2.0,cerentomak,True,card,11.0,vharmonyadmin,d4,2021-09-21 15:27:49.639000+00:00,2021-09-21 15:43:00.816000+00:00,SİYAH ÇAY,dimli,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+502,Vivaldi Harmony,adyan,2021-09-21 15:16:57.960000+00:00,[],True,1.0,cerentomak,True,card,5.5,vharmonyadmin,d4,2021-09-21 15:27:50.711000+00:00,2021-09-21 15:43:00.816000+00:00,SU,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+503,Vivaldi Harmony,adyan,2021-09-21 15:17:02.516999+00:00,[],True,1.0,adyan,True,card,33.0,vharmonyadmin,d4,2021-09-21 15:25:32.463000+00:00,2021-09-21 15:43:00.816000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+504,Vivaldi Harmony,adyan,2021-09-21 15:17:14.349999+00:00,[],True,3.0,cerentomak,True,cash,45.0225,vharmonyadmin,d7,2021-09-21 15:28:35.599000+00:00,2021-09-21 15:54:30.340000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 15:54:16.218000+00:00,vharmonyadmin,13.0
+505,Vivaldi Harmony,adyan,2021-09-21 15:17:25.049000+00:00,[],True,1.0,cerentomak,True,cash,18.009,vharmonyadmin,d7,2021-09-21 15:28:31.335000+00:00,2021-09-21 15:54:30.340000+00:00,COFFE CARAMEL MOCHA,,True,2021-09-21 15:54:16.218000+00:00,vharmonyadmin,13.0
+506,Vivaldi Harmony,adyan,2021-09-21 15:17:36.947000+00:00,[],True,2.0,adyan,True,cash,60.03,vharmonyadmin,d7,2021-09-21 15:25:29.571000+00:00,2021-09-21 15:54:30.340000+00:00,Vivaldi Brownie,,True,2021-09-21 15:54:16.218000+00:00,vharmonyadmin,13.0
+507,Vivaldi Harmony,adyan,2021-09-21 15:17:38.548000+00:00,[],True,1.0,adyan,True,card,30.015,vharmonyadmin,d7,2021-09-21 15:25:27.578999+00:00,2021-09-21 15:54:26.140000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 15:54:16.218000+00:00,vharmonyadmin,13.0
+508,Vivaldi Harmony,adyan,2021-09-21 15:17:44.122999+00:00,[],True,1.0,cerentomak,True,cash,4.35,vharmonyadmin,d7,2021-09-21 15:34:38.034000+00:00,2021-09-21 15:54:30.340000+00:00,SU,,True,2021-09-21 15:54:16.218000+00:00,vharmonyadmin,13.0
+509,Vivaldi Harmony,adyan,2021-09-21 15:18:12.654000+00:00,[],True,1.0,cerentomak,True,cash,4.945,vharmonyadmin,d11,2021-09-21 15:34:38.953000+00:00,2021-09-21 16:46:22.843000+00:00,SİYAH ÇAY,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+510,Vivaldi Harmony,adyan,2021-09-21 15:18:16.187000+00:00,[],True,1.0,cerentomak,True,cash,8.901,vharmonyadmin,d11,2021-09-21 15:34:39.923000+00:00,2021-09-21 16:46:22.843000+00:00,Fincan Çay,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+511,Vivaldi Harmony,adyan,2021-09-21 15:18:23.460000+00:00,[],True,1.0,cerentomak,True,cash,4.945,vharmonyadmin,d11,2021-09-21 15:34:40.876000+00:00,2021-09-21 16:46:22.843000+00:00,SU,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+512,Vivaldi Harmony,adyan,2021-09-21 15:19:04.226000+00:00,[],True,1.0,cerentomak,True,cash,13.5,vharmonyadmin,b8,2021-09-21 15:34:41.841000+00:00,2021-09-21 15:52:29.180000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 15:52:04.423000+00:00,vharmonyadmin,10.0
+513,Vivaldi Harmony,adyan,2021-09-21 15:19:13.999000+00:00,[],True,1.0,cerentomak,True,cash,16.2,vharmonyadmin,b8,2021-09-21 15:34:42.991000+00:00,2021-09-21 15:52:29.180000+00:00,BAL TARÇIN LATTE ,,True,2021-09-21 15:52:04.423000+00:00,vharmonyadmin,10.0
+514,Vivaldi Harmony,adyan,2021-09-21 15:19:22.581000+00:00,[],True,1.0,cerentomak,True,cash,27.0,vharmonyadmin,b8,2021-09-21 15:30:48.123000+00:00,2021-09-21 15:52:29.180000+00:00,SAN SEBASTİAN CHEESECAKE,yanında ,True,2021-09-21 15:52:04.423000+00:00,vharmonyadmin,10.0
+515,Vivaldi Harmony,adyan,2021-09-21 15:19:58.545000+00:00,[],True,1.0,cerentomak,True,card,15.0,vharmonyadmin,b5,2021-09-21 15:36:17.180000+00:00,2021-09-21 15:51:15.393000+00:00,DAMLA SAKIZLI TÜRK KAHVESİ ,sade ,,,,
+516,Vivaldi Harmony,adyan,2021-09-21 15:20:05.394999+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,b5,2021-09-21 15:34:35.011000+00:00,2021-09-21 15:51:15.393000+00:00,SU,,,,,
+517,Vivaldi Harmony,adyan,2021-09-21 15:21:01.030999+00:00,[],True,1.0,cerentomak,True,cash,5.0,vharmonyadmin,d8,2021-09-21 15:34:36.414000+00:00,2021-09-21 16:07:02+00:00,SİYAH ÇAY,,,,,
+518,Vivaldi Harmony,adyan,2021-09-21 15:22:07.460000+00:00,[],True,1.0,cerentomak,True,cash,29.67,vharmonyadmin,d14,2021-09-21 15:30:43.027000+00:00,2021-09-21 15:59:31.292000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 15:58:52.233000+00:00,vharmonyadmin,14.0
+519,Vivaldi Harmony,adyan,2021-09-21 15:22:09.691999+00:00,[],True,1.0,cerentomak,True,cash,29.67,vharmonyadmin,d14,2021-09-21 15:30:44.099000+00:00,2021-09-21 15:59:31.292000+00:00,Vivaldi Brownie,,True,2021-09-21 15:58:52.233000+00:00,vharmonyadmin,14.0
+520,Vivaldi Harmony,adyan,2021-09-21 15:22:12.617000+00:00,[],True,1.0,cerentomak,True,cash,29.67,vharmonyadmin,d14,2021-09-21 15:30:45.279000+00:00,2021-09-21 15:59:31.292000+00:00,Vivaldi Bomba,,True,2021-09-21 15:58:52.233000+00:00,vharmonyadmin,14.0
+521,Vivaldi Harmony,adyan,2021-09-21 15:23:12.770999+00:00,[],True,1.0,cerentomak,True,cash,15.823999999999998,vharmonyadmin,d14,2021-09-21 15:40:38.727000+00:00,2021-09-21 15:59:31.292000+00:00,COFFEE CORTADO ,,True,2021-09-21 15:58:52.233000+00:00,vharmonyadmin,14.0
+522,Vivaldi Harmony,vharmonyadmin,2021-09-21 15:24:32.943000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,a0,,2021-09-21 15:25:48.874000+00:00,Vivaldi Bomba,,,,,
+523,Vivaldi Harmony,vharmonyadmin,2021-09-21 15:24:40.664000+00:00,[],True,1.0,,True,card,30.0,vharmonyadmin,a0,,2021-09-21 15:25:48.874000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+524,Vivaldi Harmony,vharmonyadmin,2021-09-21 15:25:01.298000+00:00,[],True,2.0,,True,card,10.0,vharmonyadmin,a0,,2021-09-21 15:25:48.874000+00:00,SU,,,,,
+525,Vivaldi Özlüce,cozluceadmin,2021-09-21 15:25:38.110000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,b1,,2021-09-21 15:55:55.846000+00:00,SU,,,,,
+526,Vivaldi Özlüce,cozluceadmin,2021-09-21 15:25:45.419000+00:00,[],True,1.0,,True,card,5.0,cozluceadmin,b1,,2021-09-21 15:55:55.846000+00:00,EKSTRA ÇİKOLATA,,,,,
+527,Vivaldi Harmony,adyan,2021-09-21 15:26:29.644000+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,d1,2021-09-21 15:40:39.665000+00:00,2021-09-21 16:19:14.758000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+528,Vivaldi Harmony,adyan,2021-09-21 15:26:36.901000+00:00,[],True,1.0,cerentomak,True,card,16.0,vharmonyadmin,d1,2021-09-21 15:39:47.165000+00:00,2021-09-21 16:19:14.758000+00:00,COFFEE LATTE,,,,,
+529,Vivaldi Harmony,adyan,2021-09-21 15:27:21.739000+00:00,[],True,1.0,cerentomak,True,cash,18.0,vharmonyadmin,d17,2021-09-21 15:40:40.781000+00:00,2021-09-21 15:58:04.394000+00:00,AŞK-I  REYHAN,k,,,,
+530,Vivaldi Harmony,adyan,2021-09-21 15:29:26.130000+00:00,[],True,1.0,cerentomak,True,card,15.4,vharmonyadmin,d4,2021-09-21 15:40:42.600000+00:00,2021-09-21 15:43:00.816000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+531,Vivaldi Harmony,adyan,2021-09-21 15:32:43.934000+00:00,[],True,2.0,cerentomak,True,cash,10.0,vharmonyadmin,b4,2021-09-21 15:42:03.928000+00:00,2021-09-21 16:32:27.757000+00:00,SİYAH ÇAY,,,,,
+532,Vivaldi Harmony,adyan,2021-09-21 15:33:01.273000+00:00,[],True,1.0,cerentomak,True,cash,30.0,vharmonyadmin,b4,2021-09-21 15:42:04.948000+00:00,2021-09-21 16:32:27.757000+00:00,VİVALDİ MUZ,,,,,
+533,Vivaldi Harmony,adyan,2021-09-21 15:39:00.862999+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,s7,2021-09-21 15:44:22.026000+00:00,2021-09-21 16:03:44.321000+00:00,DİBEK KAHVESİ,sade ,,,,
+534,Vivaldi Harmony,adyan,2021-09-21 15:39:04.951999+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,s7,2021-09-21 15:44:23.062000+00:00,2021-09-21 16:03:44.321000+00:00,AMERİCANO,,,,,
+535,Vivaldi Harmony,adyan,2021-09-21 15:39:08.976999+00:00,[],True,1.0,cerentomak,True,cash,30.0,vharmonyadmin,s7,2021-09-21 15:44:24.235000+00:00,2021-09-21 16:03:40.864000+00:00,Vivaldi Bomba,,,,,
+536,Vivaldi Harmony,adyan,2021-09-21 15:39:11.243999+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,s7,2021-09-21 15:44:25.306000+00:00,2021-09-21 16:03:44.321000+00:00,VİVALDİ ÇİLEK,,,,,
+537,Vivaldi Harmony,adyan,2021-09-21 15:40:27.220000+00:00,[],True,3.0,cerentomak,True,card,15.0,vharmonyadmin,d1,2021-09-21 15:45:57.657000+00:00,2021-09-21 16:19:14.758000+00:00,SİYAH ÇAY,,,,,
+538,Vivaldi Harmony,adyan,2021-09-21 15:40:32.976000+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,d1,2021-09-21 15:45:56.502000+00:00,2021-09-21 16:19:14.758000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+539,Vivaldi Harmony,vharmonyadmin,2021-09-21 15:41:56.895000+00:00,[],True,80.0,,True,card,26.4,vharmonyadmin,d4,,2021-09-21 15:43:00.816000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,True,2021-09-21 15:42:21.706000+00:00,vharmonyadmin,-10.0
+540,Vivaldi Harmony,adyan,2021-09-21 15:42:07.473000+00:00,[],True,1.0,cerentomak,True,cash,18.0,vharmonyadmin,d17,2021-09-21 15:45:55.151000+00:00,2021-09-21 15:58:04.394000+00:00,EL YAPIMI LİMONATA,,,,,
+541,Vivaldi Harmony,adyan,2021-09-21 15:46:35.601999+00:00,[],True,3.0,cerentomak,True,cash,90.0,vharmonyadmin,d10,2021-09-21 15:52:23.410000+00:00,2021-09-21 16:20:46.874000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+542,Vivaldi Harmony,adyan,2021-09-21 15:46:40.894999+00:00,[],True,2.0,cerentomak,True,card,10.0,vharmonyadmin,d10,2021-09-21 15:52:24.586000+00:00,2021-09-21 16:20:41.587000+00:00,EKSTRA  ÇİKOLATA,,,,,
+543,Vivaldi Harmony,adyan,2021-09-21 15:46:46.792999+00:00,[],True,1.0,cerentomak,True,cash,5.0,vharmonyadmin,d10,2021-09-21 15:56:31.480000+00:00,2021-09-21 16:20:07.533000+00:00,SİYAH ÇAY,,,,,
+544,Vivaldi Harmony,adyan,2021-09-21 15:49:29.671000+00:00,[],True,2.0,cerentomak,True,cash,69.0,vharmonyadmin,d19,2021-09-21 15:56:30.283000+00:00,2021-09-21 17:26:58.226000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 16:37:44.485000+00:00,vharmonyadmin,-15.0
+545,Vivaldi Harmony,adyan,2021-09-21 15:49:34.921999+00:00,[],True,2.0,cerentomak,True,cash,69.0,vharmonyadmin,d19,2021-09-21 15:57:44.420000+00:00,2021-09-21 17:26:58.226000+00:00,Vivaldi Brownie,,True,2021-09-21 16:37:44.485000+00:00,vharmonyadmin,-15.0
+546,Vivaldi Harmony,adyan,2021-09-21 15:50:04.776000+00:00,[],True,1.0,cerentomak,True,cash,16.1,vharmonyadmin,d19,2021-09-21 15:56:34.410000+00:00,2021-09-21 17:26:58.226000+00:00,DİBEK KAHVESİ,sade ,True,2021-09-21 16:37:44.485000+00:00,vharmonyadmin,-15.0
+547,Vivaldi Harmony,adyan,2021-09-21 15:50:14.917000+00:00,[],True,1.0,cerentomak,True,cash,16.1,vharmonyadmin,d19,2021-09-21 15:56:35.491000+00:00,2021-09-21 17:26:58.226000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,True,2021-09-21 16:37:44.485000+00:00,vharmonyadmin,-15.0
+548,Vivaldi Harmony,adyan,2021-09-21 15:50:29.874000+00:00,[],True,1.0,cerentomak,True,cash,18.4,vharmonyadmin,d19,2021-09-21 15:57:45.351000+00:00,2021-09-21 17:26:58.226000+00:00,COFFEE LATTE,,True,2021-09-21 16:37:44.485000+00:00,vharmonyadmin,-15.0
+549,Vivaldi Harmony,adyan,2021-09-21 15:51:06.359999+00:00,[],True,1.0,cerentomak,True,cash,5.0,vharmonyadmin,d6,2021-09-21 15:57:46.335000+00:00,2021-09-21 16:07:12.181000+00:00,SİYAH ÇAY,,,,,
+550,Vivaldi Özlüce,cozluceadmin,2021-09-21 15:54:26.749000+00:00,[],True,120.0,,True,card,36.0,cozluceadmin,b10,,2021-09-21 16:02:38.288000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+551,Vivaldi Özlüce,cozluceadmin,2021-09-21 15:55:45.253000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b1,,2021-09-21 15:55:55.846000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+552,Vivaldi Harmony,adyan,2021-09-21 15:59:39.542000+00:00,[],True,2.0,cerentomak,True,card,10.0,vharmonyadmin,d1,2021-09-21 16:01:54.465000+00:00,2021-09-21 16:19:14.758000+00:00,SİYAH ÇAY,,,,,
+553,Vivaldi Özlüce,cozluceadmin,2021-09-21 16:00:40.281000+00:00,[],True,25.0,,True,card,7.5,cozluceadmin,b10,,2021-09-21 16:02:38.288000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+554,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 16:01:32.200999+00:00,[],True,2.0,,True,cash,30.0,vivaldisoganli,s6,,2021-09-21 19:17:10.829462,COFFEE FLAT WHİTE ,,,,,
+555,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 16:01:35.673000+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,s6,,2021-09-21 19:17:10.829462,SAN SEBASTİAN CHEESECAKE,,,,,
+556,Vivaldi Özlüce,cozluceadmin,2021-09-21 16:02:28.321000+00:00,[],True,150.0,,True,card,45.0,cozluceadmin,b10,,2021-09-21 16:02:38.288000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+557,Vivaldi Harmony,adyan,2021-09-21 16:03:09.173000+00:00,[],True,1.0,cerentomak,True,cash,33.0165,vharmonyadmin,d5,2021-09-21 16:08:40.470000+00:00,2021-09-21 16:33:10.793000+00:00,VİVALDİ ÇİLEK,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+558,Vivaldi Harmony,adyan,2021-09-21 16:03:12.030999+00:00,[],True,1.0,cerentomak,True,cash,33.0165,vharmonyadmin,d5,2021-09-21 16:08:41.413000+00:00,2021-09-21 16:33:10.793000+00:00,Vivaldi Brownie,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+559,Vivaldi Harmony,adyan,2021-09-21 16:03:23.213999+00:00,[],True,1.0,cerentomak,True,cash,22.011,vharmonyadmin,d5,2021-09-21 16:08:42.315000+00:00,2021-09-21 16:33:10.793000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+560,Vivaldi Harmony,adyan,2021-09-21 16:03:27.221999+00:00,[],True,1.0,cerentomak,True,cash,22.011,vharmonyadmin,d5,2021-09-21 16:08:43.250000+00:00,2021-09-21 16:33:10.793000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+561,Vivaldi Harmony,adyan,2021-09-21 16:03:34.971999+00:00,[],True,1.0,cerentomak,True,cash,16.50825,vharmonyadmin,d5,2021-09-21 16:08:45.293000+00:00,2021-09-21 16:33:10.793000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+562,Vivaldi Harmony,adyan,2021-09-21 16:04:02.994999+00:00,[],True,1.0,cerentomak,True,cash,28.71,vharmonyadmin,d5,2021-09-21 16:09:39.873000+00:00,2021-09-21 16:33:10.793000+00:00,Vivaldi Bomba,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+563,Vivaldi Harmony,adyan,2021-09-21 16:04:12.844000+00:00,[],True,1.0,cerentomak,True,cash,13.398,vharmonyadmin,d5,2021-09-21 16:12:27.503000+00:00,2021-09-21 16:33:10.793000+00:00,DİBEK KAHVESİ,orta ,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+564,Vivaldi Harmony,adyan,2021-09-21 16:04:21.543999+00:00,[],True,1.0,cerentomak,True,cash,5.50275,vharmonyadmin,d5,2021-09-21 16:08:47.868000+00:00,2021-09-21 16:33:10.793000+00:00,SU,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+565,Vivaldi Harmony,adyan,2021-09-21 16:04:33.816999+00:00,[],True,1.0,cerentomak,True,cash,3.0,vharmonyadmin,d3,2021-09-21 16:09:45.518000+00:00,2021-09-21 16:26:57.584000+00:00,SİYAH ÇAY,,True,2021-09-21 16:26:48.321000+00:00,vharmonyadmin,40.0
+566,Vivaldi Harmony,adyan,2021-09-21 16:05:22.523000+00:00,[],True,1.0,cerentomak,True,cash,30.0,vharmonyadmin,b8,2021-09-21 16:12:28.666000+00:00,2021-09-21 16:54:34.216000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+567,Vivaldi Harmony,adyan,2021-09-21 16:07:50.203999+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,d1,2021-09-21 16:12:46.118000+00:00,2021-09-21 16:19:14.758000+00:00,SİYAH ÇAY,,,,,
+568,Vivaldi Harmony,adyan,2021-09-21 16:08:02.053999+00:00,[],True,1.0,cerentomak,True,cash,28.71,vharmonyadmin,d5,2021-09-21 16:09:44.142000+00:00,2021-09-21 16:33:10.793000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 16:33:05.730000+00:00,vharmonyadmin,13.0
+569,Vivaldi Harmony,adyan,2021-09-21 16:08:30.957999+00:00,[],True,1.0,cerentomak,True,cash,30.0,vharmonyadmin,b8,2021-09-21 16:14:02.029000+00:00,2021-09-21 16:54:34.216000+00:00,VİVALDİ ÇİLEK,,,,,
+570,Vivaldi Harmony,cerentomak,2021-09-21 16:10:05.883000+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,b6,2021-09-21 16:14:09.453000+00:00,2021-09-21 16:25:25.040000+00:00,SİYAH ÇAY,,,,,
+571,Vivaldi Harmony,cerentomak,2021-09-21 16:10:12.035000+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,b6,2021-09-21 16:14:05.395000+00:00,2021-09-21 16:25:25.040000+00:00,Vivaldi Brownie,,,,,
+572,Vivaldi Harmony,adyan,2021-09-21 16:10:42.167999+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d17,2021-09-21 16:20:01.483000+00:00,2021-09-21 16:29:02.358000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+573,Vivaldi Harmony,adyan,2021-09-21 16:10:56.282999+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,b1,2021-09-21 16:19:55.003000+00:00,2021-09-21 16:45:22.214000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+574,Vivaldi Harmony,adyan,2021-09-21 16:11:01.374000+00:00,[],True,1.0,gorkemk,True,card,16.0,vharmonyadmin,b1,2021-09-21 16:19:39.226000+00:00,2021-09-21 16:45:22.214000+00:00,COFFEE CORTADO ,,,,,
+575,Vivaldi Harmony,adyan,2021-09-21 16:12:25.721999+00:00,[],True,2.0,cerentomak,True,card,10.0,vharmonyadmin,d10,2021-09-21 16:14:06.814000+00:00,2021-09-21 16:20:43.953000+00:00,SU,,,,,
+576,Vivaldi Harmony,adyan,2021-09-21 16:12:39.312000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,b4,2021-09-21 16:19:38.243000+00:00,2021-09-21 16:32:27.757000+00:00,SİYAH ÇAY,,,,,
+577,Vivaldi Harmony,adyan,2021-09-21 16:15:07.426000+00:00,[],True,1.0,gorkemk,True,cash,4.945,vharmonyadmin,d11,2021-09-21 16:20:03.167999+00:00,2021-09-21 16:46:22.843000+00:00,SİYAH ÇAY,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+578,Vivaldi Harmony,vharmonyadmin,2021-09-21 16:16:30.240000+00:00,[],True,1.0,,True,card,5.0,vharmonyadmin,b6,,2021-09-21 16:25:25.040000+00:00,SİYAH ÇAY,,,,,
+579,Vivaldi Harmony,adyan,2021-09-21 16:16:33.931999+00:00,[],True,2.0,cerentomak,True,cash,10.0,vharmonyadmin,b8,2021-09-21 16:22:00.092000+00:00,2021-09-21 16:54:34.216000+00:00,SİYAH ÇAY,,,,,
+580,Vivaldi Harmony,adyan,2021-09-21 16:16:37.915999+00:00,[],True,1.0,cerentomak,True,cash,20.0,vharmonyadmin,b8,2021-09-21 16:22:01.810000+00:00,2021-09-21 16:54:34.216000+00:00,ÇİLEKLİ LİMONATA,,,,,
+581,Vivaldi Harmony,adyan,2021-09-21 16:17:28.102999+00:00,[],True,1.0,cerentomak,True,cash,13.846,vharmonyadmin,d11,2021-09-21 16:27:40.364000+00:00,2021-09-21 16:46:22.843000+00:00,AMERİCANO,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+582,Vivaldi Harmony,adyan,2021-09-21 16:17:47.645999+00:00,[],True,1.0,cerentomak,True,card,16.1,vharmonyadmin,d11,2021-09-21 16:27:39.202000+00:00,2021-09-21 16:46:07.469000+00:00,GELENEKSEL TÜRK KAHVESİ,az şekerli ,True,2021-09-21 16:45:34.497000+00:00,vharmonyadmin,-15.0
+583,Vivaldi Harmony,adyan,2021-09-21 16:18:47.390000+00:00,[],True,2.0,cerentomak,True,cash,9.89,vharmonyadmin,d11,2021-09-21 16:22:30.814000+00:00,2021-09-21 16:46:22.843000+00:00,SU,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+584,Vivaldi Harmony,adyan,2021-09-21 16:19:08.476000+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,d16,2021-09-21 16:25:15.464000+00:00,2021-09-21 16:53:20.497000+00:00,Vivaldi Brownie,,,,,
+585,Vivaldi Harmony,adyan,2021-09-21 16:19:14.582999+00:00,[],True,1.0,cerentomak,True,card,19.0,vharmonyadmin,d16,2021-09-21 16:25:14.139000+00:00,2021-09-21 16:53:20.497000+00:00,SOĞUK ÇİKOLATA,,,,,
+586,Vivaldi Harmony,adyan,2021-09-21 16:19:15.858999+00:00,[],True,1.0,cerentomak,True,card,5.0,vharmonyadmin,d16,2021-09-21 16:22:32.057000+00:00,2021-09-21 16:53:20.497000+00:00,SU,,,,,
+587,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 16:21:33.944000+00:00,[],True,1.0,,True,card,16.0,vivaldisoganli,s6,,2021-09-21 16:31:12.898999+00:00,CAPPUCCİNO,,,,,
+588,Vivaldi Harmony,adyan,2021-09-21 16:21:55.089999+00:00,[],True,1.0,cerentomak,True,card,15.0,vharmonyadmin,b1,2021-09-21 16:24:33.391000+00:00,2021-09-21 16:45:22.214000+00:00,COFFEE FLAT WHİTE ,,,,,
+589,Vivaldi Harmony,adyan,2021-09-21 16:27:15.461999+00:00,[],True,35.0,cerentomak,True,cash,10.3845,vharmonyadmin,d11,2021-09-21 16:27:38.002000+00:00,2021-09-21 16:46:22.843000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,True,2021-09-21 16:46:18.575000+00:00,vharmonyadmin,14.0
+590,Vivaldi Harmony,adyan,2021-09-21 16:33:01.112999+00:00,[],True,2.0,gorkemk,True,cash,60.0,vharmonyadmin,b3,2021-09-21 16:42:53.174000+00:00,2021-09-21 16:56:02.468000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+591,Vivaldi Harmony,adyan,2021-09-21 16:33:24.802999+00:00,[],True,1.0,gorkemk,True,cash,20.0,vharmonyadmin,b3,2021-09-21 16:42:54.342000+00:00,2021-09-21 16:56:02.468000+00:00,AROMALI ICE MOCHA,cramel/ cremasız,,,,
+592,Vivaldi Harmony,adyan,2021-09-21 16:33:27.710000+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,b3,2021-09-21 16:42:55.440999+00:00,2021-09-21 16:56:02.468000+00:00,SU,,,,,
+593,Vivaldi Harmony,adyan,2021-09-21 16:33:54.365999+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,b6,2021-09-21 16:37:48.516999+00:00,2021-09-21 17:27:23.193000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+594,Vivaldi Harmony,adyan,2021-09-21 16:38:47.878000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d6,2021-09-21 16:46:50.971999+00:00,2021-09-21 17:26:13.855000+00:00,CAPPUCCİNO,,,,,
+595,Vivaldi Harmony,adyan,2021-09-21 16:38:55.901000+00:00,[],True,2.0,gorkemk,True,cash,60.0,vharmonyadmin,d6,2021-09-21 16:47:54.552999+00:00,2021-09-21 17:26:13.855000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+596,Vivaldi Harmony,adyan,2021-09-21 16:39:08.209000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d6,2021-09-21 16:46:52.214999+00:00,2021-09-21 17:26:13.855000+00:00,GELENEKSEL TÜRK KAHVESİ,şekerli ,,,,
+597,Vivaldi Harmony,adyan,2021-09-21 16:41:09.473000+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d19,2021-09-21 16:46:53.221999+00:00,2021-09-21 17:26:58.226000+00:00,COFFEE LATTE,,,,,
+598,Vivaldi Harmony,adyan,2021-09-21 16:48:43.259000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d6,2021-09-21 16:52:36.706000+00:00,2021-09-21 17:26:13.855000+00:00,DİBEK KAHVESİ,şekerli ,,,,
+599,Vivaldi Harmony,adyan,2021-09-21 16:49:29.147000+00:00,[],True,1.0,gorkemk,True,cash,4.25,vharmonyadmin,b2,2021-09-21 16:52:37.657000+00:00,2021-09-21 17:51:53.802000+00:00,SİYAH ÇAY,,True,2021-09-21 17:51:20.915000+00:00,vharmonyadmin,15.0
+600,Vivaldi Harmony,adyan,2021-09-21 16:49:31.546000+00:00,[],True,1.0,gorkemk,True,cash,4.25,vharmonyadmin,b2,2021-09-21 16:52:38.707000+00:00,2021-09-21 17:51:53.802000+00:00,SİYAH ÇAY,,True,2021-09-21 17:51:20.915000+00:00,vharmonyadmin,15.0
+601,Vivaldi Görükle,vgorukle,2021-09-21 16:54:00.610000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b7,,2021-09-21 17:11:01.058000+00:00,SİYAH ÇAY,,,,,
+602,Vivaldi Özlüce,cozluceadmin,2021-09-21 16:54:00.841000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b1,,2021-09-21 18:02:20.741000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+603,Vivaldi Özlüce,cozluceadmin,2021-09-21 16:54:03.826000+00:00,[],True,1.0,,True,card,30.0,cozluceadmin,b1,,2021-09-21 18:02:20.741000+00:00,VİVALDİ ÇİLEK,,,,,
+604,Vivaldi Harmony,vharmonyadmin,2021-09-21 16:54:04.480000+00:00,[],True,25.0,,True,cash,7.5,vharmonyadmin,d6,,2021-09-21 17:26:13.855000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+605,Vivaldi Harmony,adyan,2021-09-21 16:59:07.210000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s3,2021-09-21 17:02:49.982000+00:00,2021-09-21 17:22:37.175000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+606,Vivaldi Harmony,adyan,2021-09-21 16:59:09.651999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s3,2021-09-21 17:02:51.207000+00:00,2021-09-21 17:22:37.175000+00:00,Vivaldi Brownie,,,,,
+607,Vivaldi Harmony,adyan,2021-09-21 16:59:16.226999+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,s3,2021-09-21 17:02:52.339999+00:00,2021-09-21 17:22:37.175000+00:00,COFFEE FLAT WHİTE ,,,,,
+608,Vivaldi Harmony,adyan,2021-09-21 16:59:34.885999+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,s3,2021-09-21 17:06:19.414999+00:00,2021-09-21 17:22:37.175000+00:00,CAPPUCCİNO,,,,,
+609,Vivaldi Harmony,adyan,2021-09-21 16:59:53.417000+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,s3,2021-09-21 17:02:53.730999+00:00,2021-09-21 17:22:37.175000+00:00,COFFEE FLAT WHİTE ,,,,,
+610,Vivaldi Harmony,adyan,2021-09-21 17:00:06.099999+00:00,[],True,4.0,gorkemk,True,cash,20.0,vharmonyadmin,s3,2021-09-21 17:03:52.154000+00:00,2021-09-21 17:22:37.175000+00:00,SU,,,,,
+611,Vivaldi Harmony,adyan,2021-09-21 17:01:12.065999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,b6,2021-09-21 17:04:36.046000+00:00,2021-09-21 17:27:23.193000+00:00,SİYAH ÇAY,,,,,
+612,Vivaldi Görükle,vgorukle,2021-09-21 17:03:44.924000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-21 17:44:13.826000+00:00,SİYAH ÇAY,,,,,
+613,Vivaldi Görükle,vgorukle,2021-09-21 17:03:46.687000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-21 17:44:13.826000+00:00,SİYAH ÇAY,,,,,
+614,Vivaldi Görükle,vgorukle,2021-09-21 17:03:48.137000+00:00,[],True,1.0,,True,cash,5.0,vgorukle,b9,,2021-09-21 17:44:13.826000+00:00,SİYAH ÇAY,,,,,
+615,Vivaldi Görükle,vgorukle,2021-09-21 17:04:02.220000+00:00,[],True,185.0,,True,card,55.5,vgorukle,b5,,2021-09-21 17:04:07.816000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+616,Vivaldi Harmony,adyan,2021-09-21 17:04:55.075000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,d5,2021-09-21 17:07:17.513000+00:00,2021-09-21 18:17:08.367000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+617,Vivaldi Harmony,adyan,2021-09-21 17:05:05.733000+00:00,[],True,1.0,gorkemk,True,cash,7.5,vharmonyadmin,d5,2021-09-21 17:06:24.414999+00:00,2021-09-21 18:17:08.367000+00:00,vanilyalı ,,,,,
+618,Vivaldi Harmony,adyan,2021-09-21 17:05:11.098999+00:00,[],True,1.0,gorkemk,True,cash,16.0,vharmonyadmin,d5,2021-09-21 17:10:06.299000+00:00,2021-09-21 18:17:08.367000+00:00,CAPPUCCİNO,,,,,
+619,Vivaldi Harmony,adyan,2021-09-21 17:05:22.265000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d5,2021-09-21 17:07:15.855999+00:00,2021-09-21 18:17:08.367000+00:00,GELENEKSEL TÜRK KAHVESİ,şekerli ,,,,
+620,Vivaldi Harmony,adyan,2021-09-21 17:09:19.190000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,d19,2021-09-21 17:12:40.417000+00:00,2021-09-21 17:26:58.226000+00:00,DİBEK KAHVESİ,sade ,,,,
+621,Vivaldi Harmony,adyan,2021-09-21 17:12:09.207000+00:00,[],True,2.0,gorkemk,True,cash,60.0,vharmonyadmin,d16,2021-09-21 17:14:59.135999+00:00,2021-09-21 17:47:20.801000+00:00,VİVALDİ ÇİLEK,,,,,
+622,Vivaldi Harmony,adyan,2021-09-21 17:12:16.470000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,d16,2021-09-21 17:15:00.494999+00:00,2021-09-21 17:47:20.801000+00:00,SİYAH ÇAY,,,,,
+623,Vivaldi Harmony,adyan,2021-09-21 17:13:32.484999+00:00,[],True,1.0,gorkemk,True,cash,4.25,vharmonyadmin,b2,2021-09-21 17:15:01.638000+00:00,2021-09-21 17:51:53.802000+00:00,SİYAH ÇAY,,True,2021-09-21 17:51:20.915000+00:00,vharmonyadmin,15.0
+624,Vivaldi Harmony,adyan,2021-09-21 17:16:29.815000+00:00,[],True,1.0,gorkemk,True,cash,3.0,vharmonyadmin,d10,2021-09-21 17:17:06.240000+00:00,2021-09-21 17:29:31.911000+00:00,SİYAH ÇAY,,True,2021-09-21 17:29:26.772000+00:00,vharmonyadmin,40.0
+625,Vivaldi Harmony,adyan,2021-09-21 17:16:31.289999+00:00,[],True,1.0,gorkemk,True,cash,3.0,vharmonyadmin,d10,2021-09-21 17:17:05.239000+00:00,2021-09-21 17:29:31.911000+00:00,SİYAH ÇAY,,True,2021-09-21 17:29:26.772000+00:00,vharmonyadmin,40.0
+626,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 17:20:20.987000+00:00,[],True,1.0,,True,cash,16.0,vivaldisoganli,b1,,2021-09-21 17:36:11.759999+00:00,CAPPUCCİNO,,,,,
+627,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 17:20:28.914000+00:00,[],True,2.0,,True,cash,60.0,vivaldisoganli,b1,,2021-09-21 17:36:11.759999+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+628,Vivaldi Harmony,adyan,2021-09-21 17:25:23.579999+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b8,2021-09-21 17:36:04.857000+00:00,2021-09-21 18:14:07.684000+00:00,VİVALDİ ÇİLEK,,,,,
+629,Vivaldi Harmony,adyan,2021-09-21 17:25:27.006000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b8,2021-09-21 17:36:05.756999+00:00,2021-09-21 18:14:07.684000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+630,Vivaldi Harmony,gorkemk,2021-09-21 17:31:15.904000+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,s7,2021-09-21 17:31:52.068000+00:00,2021-09-21 18:39:18.437000+00:00,SİYAH ÇAY,,,,,
+631,Vivaldi Harmony,gorkemk,2021-09-21 17:31:19.545000+00:00,[],True,1.0,gorkemk,True,cash,14.0,vharmonyadmin,s7,2021-09-21 17:31:53.217999+00:00,2021-09-21 18:39:18.437000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+632,Vivaldi Harmony,gorkemk,2021-09-21 17:31:37.010999+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s7,2021-09-21 17:31:54.142999+00:00,2021-09-21 18:39:18.437000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+633,Vivaldi Harmony,gorkemk,2021-09-21 17:31:46.411999+00:00,[],True,60.0,gorkemk,True,cash,18.0,vharmonyadmin,s7,2021-09-21 17:31:55.026000+00:00,2021-09-21 18:39:18.437000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+634,Vivaldi Harmony,adyan,2021-09-21 17:32:22.996000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,a0,2021-09-21 17:36:25.548000+00:00,2021-09-21 17:41:46.823000+00:00,VİVALDİ ÇİLEK,,,,,
+635,Vivaldi Harmony,adyan,2021-09-21 17:32:28.288000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,a0,2021-09-21 17:36:26.372999+00:00,2021-09-21 17:41:46.823000+00:00,VİVALDİ MUZ,,,,,
+636,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 17:35:17.973999+00:00,[],True,10.0,,True,cash,3.0,vivaldisoganli,b1,,2021-09-21 17:36:11.759999+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+637,Vivaldi Harmony,gorkemk,2021-09-21 17:36:18.624000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,b8,2021-09-21 17:36:23.773000+00:00,2021-09-21 18:14:07.684000+00:00,SU,,,,,
+638,Vivaldi Harmony,gorkemk,2021-09-21 17:36:19.839999+00:00,[],True,1.0,gorkemk,True,card,7.0,vharmonyadmin,b8,2021-09-21 17:36:24.655999+00:00,2021-09-21 18:14:07.684000+00:00,SODA,,,,,
+639,Vivaldi Harmony,gorkemk,2021-09-21 17:36:38.789000+00:00,[],True,1.0,cerentomak,True,cash,28.0,vharmonyadmin,b6,2021-09-21 17:40:45.669000+00:00,2021-09-21 18:18:45.043000+00:00,Vivaldi tiremisu,,,,,
+640,Vivaldi Harmony,gorkemk,2021-09-21 17:36:53.237999+00:00,[],True,1.0,cerentomak,True,cash,5.0,vharmonyadmin,b6,2021-09-21 17:40:46.727000+00:00,2021-09-21 18:18:45.043000+00:00,SİYAH ÇAY,,,,,
+641,Vivaldi Harmony,gorkemk,2021-09-21 17:36:56.154999+00:00,[],True,1.0,cerentomak,True,cash,7.0,vharmonyadmin,b6,2021-09-21 17:40:47.793000+00:00,2021-09-21 18:18:45.043000+00:00,SODA,,,,,
+642,Vivaldi Harmony,gorkemk,2021-09-21 17:37:08.147000+00:00,[],True,1.0,cerentomak,True,cash,15.0,vharmonyadmin,b6,2021-09-21 17:40:48.811000+00:00,2021-09-21 18:18:45.043000+00:00,COFFEE FLAT WHİTE ,,,,,
+643,Vivaldi Harmony,gorkemk,2021-09-21 17:38:50.674999+00:00,[],True,1.0,cerentomak,True,cash,3.0,vharmonyadmin,d19,2021-09-21 17:40:50.131000+00:00,2021-09-21 18:13:09.176000+00:00,SİYAH ÇAY,,True,2021-09-21 18:13:03.685000+00:00,vharmonyadmin,40.0
+644,Vivaldi Harmony,gorkemk,2021-09-21 17:39:28.155999+00:00,[],True,2.0,gorkemk,True,cash,10.0,vharmonyadmin,s7,2021-09-21 17:39:32.122999+00:00,2021-09-21 18:39:18.437000+00:00,SU,,,,,
+645,Vivaldi Harmony,gorkemk,2021-09-21 17:46:56.651999+00:00,[],True,1.0,gorkemk,True,card,7.0,vharmonyadmin,b8,2021-09-21 17:47:00.526000+00:00,2021-09-21 18:14:07.684000+00:00,SODA,,,,,
+646,Vivaldi Harmony,gorkemk,2021-09-21 17:54:54.312000+00:00,[],True,1.0,cerentomak,True,card,14.0,vharmonyadmin,d7,2021-09-21 17:59:44.745000+00:00,2021-09-21 18:05:39.556000+00:00,GELENEKSEL TÜRK KAHVESİ,or,,,,
+647,Vivaldi Harmony,gorkemk,2021-09-21 17:55:00.687000+00:00,[],True,1.0,cerentomak,True,card,30.0,vharmonyadmin,d7,2021-09-21 17:59:45.831000+00:00,2021-09-21 18:05:39.556000+00:00,VİVALDİ MUZ,,,,,
+648,Vivaldi Harmony,adyan,2021-09-21 17:56:44.062000+00:00,[],True,1.0,cerentomak,True,cash,3.0,vharmonyadmin,d19,2021-09-21 17:59:46.977000+00:00,2021-09-21 18:13:09.176000+00:00,SİYAH ÇAY,,True,2021-09-21 18:13:03.685000+00:00,vharmonyadmin,40.0
+649,Vivaldi Özlüce,cozluceadmin,2021-09-21 17:56:56.192000+00:00,[],True,1.0,,True,cash,15.0,cozluceadmin,d2,,2021-09-21 19:52:07.547000+00:00,DAĞ ÇİLEKLİ TÜRK KAHVESİ,,,,,
+650,Vivaldi Özlüce,cozluceadmin,2021-09-21 17:57:03.617000+00:00,[],True,1.0,,True,cash,15.0,cozluceadmin,d2,,2021-09-21 19:52:07.547000+00:00,COFFEE FLAT WHİTE ,,,,,
+651,Vivaldi Özlüce,cozluceadmin,2021-09-21 17:57:07.643000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,d2,,2021-09-21 19:52:07.547000+00:00,VİVALDİ ÇİLEK,,,,,
+652,Vivaldi Harmony,adyan,2021-09-21 17:57:43.630000+00:00,[],True,2.0,gorkemk,True,card,28.0,vharmonyadmin,d2,2021-09-21 18:02:05.530999+00:00,2021-09-21 18:50:00.868000+00:00,AMERİCANO,,,,,
+653,Vivaldi Harmony,adyan,2021-09-21 17:58:57.607000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,d2,2021-09-21 18:02:06.829999+00:00,2021-09-21 18:50:00.868000+00:00,VİVALDİ ÇİLEK,,,,,
+654,Vivaldi Harmony,adyan,2021-09-21 18:00:16.049999+00:00,[],True,4.0,gorkemk,True,card,120.0,vharmonyadmin,s6,2021-09-21 18:08:48.963000+00:00,2021-09-21 18:35:11.569000+00:00,VİVALDİ MUZ,,,,,
+655,Vivaldi Görükle,vgorukle,2021-09-21 18:10:04.615000+00:00,[],True,370.0,,True,card,111.0,vgorukle,b1,,2021-09-21 18:11:47.181000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+656,Vivaldi Harmony,adyan,2021-09-21 18:12:19.549000+00:00,[],True,2.0,gorkemk,True,cash,28.0,vharmonyadmin,d7,2021-09-21 18:16:31.351000+00:00,2021-09-21 18:50:42.722000+00:00,GELENEKSEL TÜRK KAHVESİ,sade ,,,,
+657,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:14:53.530000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+658,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:14:57.173000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+659,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:15:00.096000+00:00,[],True,1.0,,True,cash,30.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,VİVALDİ BOMBA,,,,,
+660,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:15:03.977000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,ÇAY,,,,,
+661,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:15:05.750000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,ÇAY,,,,,
+662,Vivaldi Özlüce,cozluceadmin,2021-09-21 18:15:09.297000+00:00,[],True,1.0,,True,cash,5.0,cozluceadmin,b1,,2021-09-21 19:06:07.400000+00:00,SU,,,,,
+663,Vivaldi Harmony,adyan,2021-09-21 18:24:12.711999+00:00,[],True,1.0,cerentomak,True,cash,3.0,vharmonyadmin,d6,2021-09-21 18:45:12.248000+00:00,2021-09-21 18:53:20.967000+00:00,SİYAH ÇAY,,True,2021-09-21 18:53:16.363000+00:00,vharmonyadmin,40.0
+664,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 18:39:15.344000+00:00,[],True,176.0,,True,card,52.8,vivaldisoganli,b1,,2021-09-21 18:40:13.813999+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+665,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 18:44:38.724999+00:00,[],True,2.0,,True,cash,60.0,vivaldisoganli,b1,,2021-09-21 19:02:39.365999+00:00,VİVALDİ BROWNİE,,,,,
+666,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 18:44:49.092999+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,b1,,2021-09-21 19:02:39.365999+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+667,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 18:45:21.986000+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,b1,,2021-09-21 19:02:39.365999+00:00,VİVALDİ MUZ,,,,,
+668,Vivaldi Harmony,adyan,2021-09-21 18:45:25.256000+00:00,[],True,1.0,cerentomak,True,card,15.0075,vharmonyadmin,d4,2021-09-21 18:47:51.291000+00:00,2021-09-21 19:36:49.948000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+669,Vivaldi Harmony,adyan,2021-09-21 18:46:07.207999+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d9,2021-09-21 18:46:44.641000+00:00,2021-09-21 19:45:08.181000+00:00,SU,,,,,
+670,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 18:46:47.736000+00:00,[],True,2.0,,True,cash,10.0,vivaldisoganli,b1,,2021-09-21 19:02:39.365999+00:00,SU,,,,,
+671,Vivaldi Görükle,vgorukle,2021-09-21 18:47:26.942000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-21 18:47:33.920000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+672,Vivaldi Görükle,vgorukle,2021-09-21 18:47:29.851000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b1,,2021-09-21 18:47:33.920000+00:00,SU,,,,,
+673,Vivaldi Görükle,vgorukle,2021-09-21 18:47:55.328000+00:00,[],True,1.0,,True,cash,18.0,vgorukle,b1,,2021-09-21 18:52:33.950000+00:00,Reyhan Suyu,,,,,
+674,Vivaldi Harmony,gorkemk,2021-09-21 18:48:39.216000+00:00,[],True,2.0,cerentomak,True,card,30.0,vharmonyadmin,d9,2021-09-21 18:53:03.537000+00:00,2021-09-21 19:45:08.181000+00:00,COFFEE FLAT WHİTE ,,,,,
+675,Vivaldi Görükle,vgorukle,2021-09-21 19:01:11.812000+00:00,[],True,1.0,,True,card,15.0,vgorukle,b8,,2021-09-21 20:22:11.664000+00:00,DAMLA SAKIZLI TÜRK KAHVESİ ,,,,,
+676,Vivaldi Görükle,vgorukle,2021-09-21 19:01:20.809000+00:00,[],True,1.0,,True,card,12.0,vgorukle,b8,,2021-09-21 20:22:11.664000+00:00, ESPRESSO,,,,,
+677,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 19:01:23.608000+00:00,[],True,1.0,,True,cash,5.0,vivaldisoganli,b1,,2021-09-21 19:02:39.365999+00:00,SU,,,,,
+678,Vivaldi Görükle,vgorukle,2021-09-21 19:01:43.138000+00:00,[],True,1.0,,True,cash,14.0,vgorukle,b1,,2021-09-21 19:17:42.485000+00:00,AMERİCANO,,,,,
+679,Vivaldi Harmony,adyan,2021-09-21 19:03:17.884000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,d4,2021-09-21 19:11:43.134999+00:00,2021-09-21 19:36:49.948000+00:00,VİVALDİ ÇİLEK,,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+680,Vivaldi Harmony,adyan,2021-09-21 19:03:20.176000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,d4,2021-09-21 19:09:16.996999+00:00,2021-09-21 19:36:49.948000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+681,Vivaldi Harmony,adyan,2021-09-21 19:04:18.522000+00:00,[],True,3.0,gorkemk,True,card,90.045,vharmonyadmin,b4,2021-09-21 19:09:16.188999+00:00,2021-09-21 19:24:57.956000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 19:24:51.341000+00:00,vharmonyadmin,13.0
+682,Vivaldi Harmony,adyan,2021-09-21 19:04:21.164000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,b4,2021-09-21 19:11:44.109999+00:00,2021-09-21 19:24:57.956000+00:00,Vivaldi Brownie,,True,2021-09-21 19:24:51.341000+00:00,vharmonyadmin,13.0
+683,Vivaldi Harmony,adyan,2021-09-21 19:04:28.390000+00:00,[],True,1.0,gorkemk,True,card,14.007000000000001,vharmonyadmin,b4,2021-09-21 19:08:32.865000+00:00,2021-09-21 19:24:57.956000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,True,2021-09-21 19:24:51.341000+00:00,vharmonyadmin,13.0
+684,Vivaldi Harmony,adyan,2021-09-21 19:04:41.145999+00:00,[],True,1.0,gorkemk,True,card,5.0024999999999995,vharmonyadmin,b4,2021-09-21 19:16:26.628999+00:00,2021-09-21 19:24:57.956000+00:00,SU,,True,2021-09-21 19:24:51.341000+00:00,vharmonyadmin,13.0
+685,Vivaldi Harmony,adyan,2021-09-21 19:06:00.411000+00:00,[],True,2.0,gorkemk,True,card,28.014000000000003,vharmonyadmin,d4,2021-09-21 19:08:34.463999+00:00,2021-09-21 19:36:49.948000+00:00,GELENEKSEL TÜRK KAHVESİ,orta ,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+686,Vivaldi Harmony,adyan,2021-09-21 19:06:04.012000+00:00,[],True,1.0,gorkemk,True,card,16.008,vharmonyadmin,d4,2021-09-21 19:16:14.387000+00:00,2021-09-21 19:36:49.948000+00:00,CAPPUCCİNO,,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+687,Vivaldi Harmony,adyan,2021-09-21 19:06:30.016999+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,d4,2021-09-21 19:11:45.493000+00:00,2021-09-21 19:36:49.948000+00:00,Vivaldi Brownie,,True,2021-09-21 19:36:29.365000+00:00,vharmonyadmin,13.0
+688,Vivaldi Harmony,adyan,2021-09-21 19:07:14.515000+00:00,[],True,1.0,cerentomak,True,card,30.015,vharmonyadmin,b8,2021-09-21 19:16:23.996000+00:00,2021-09-21 19:35:36.753000+00:00,Vivaldi Brownie,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+689,Vivaldi Harmony,adyan,2021-09-21 19:07:16.206000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,b8,2021-09-21 19:14:42.980999+00:00,2021-09-21 19:35:36.753000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+690,Vivaldi Harmony,adyan,2021-09-21 19:07:23.989000+00:00,[],True,1.0,gorkemk,True,card,30.015,vharmonyadmin,b8,2021-09-21 19:14:41.648000+00:00,2021-09-21 19:35:36.753000+00:00,SAN SEBASTİAN CHEESECAKE,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+691,Vivaldi Harmony,adyan,2021-09-21 19:07:33.630000+00:00,[],True,2.0,cerentomak,True,card,10.004999999999999,vharmonyadmin,b8,2021-09-21 19:14:00.236000+00:00,2021-09-21 19:35:36.753000+00:00,SU,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+692,Vivaldi Harmony,adyan,2021-09-21 19:10:14.746000+00:00,[],True,1.0,gorkemk,True,card,19.0,vharmonyadmin,d7,2021-09-21 19:16:16.755000+00:00,2021-09-21 19:55:04.858000+00:00,SICAK ÇİKOLATA,,,,,
+693,Vivaldi Harmony,adyan,2021-09-21 19:10:46.782999+00:00,[],True,1.0,cerentomak,True,card,15.0,vharmonyadmin,d7,2021-09-21 19:20:15.514000+00:00,2021-09-21 19:55:04.858000+00:00,PAPATYA ÇAYI ,,,,,
+694,Vivaldi Harmony,adyan,2021-09-21 19:10:51.726000+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d7,2021-09-21 19:16:28.586999+00:00,2021-09-21 19:55:04.858000+00:00,SU,,,,,
+695,Vivaldi Harmony,adyan,2021-09-21 19:16:17.529000+00:00,[],True,2.0,gorkemk,True,card,40.019999999999996,vharmonyadmin,b8,2021-09-21 19:18:20.193000+00:00,2021-09-21 19:35:36.753000+00:00,ÇİLEKLİ LİMONATA,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+696,Vivaldi Harmony,adyan,2021-09-21 19:16:30.196000+00:00,[],True,1.0,cerentomak,True,card,15.0075,vharmonyadmin,b8,2021-09-21 19:22:12.402000+00:00,2021-09-21 19:35:36.753000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+697,Vivaldi Harmony,adyan,2021-09-21 19:17:16.177000+00:00,[],True,1.0,cerentomak,True,card,15.0075,vharmonyadmin,b8,2021-09-21 19:22:14.289000+00:00,2021-09-21 19:35:36.753000+00:00,COFFEE FLAT WHİTE ,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+698,Vivaldi Harmony,adyan,2021-09-21 19:17:22.450000+00:00,[],True,1.0,gorkemk,True,card,5.0024999999999995,vharmonyadmin,b8,2021-09-21 19:18:31.933000+00:00,2021-09-21 19:35:36.753000+00:00,SU,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+699,Vivaldi Harmony,adyan,2021-09-21 19:17:30.198999+00:00,[],True,1.0,cerentomak,True,card,30.015,vharmonyadmin,b8,2021-09-21 19:20:17.392000+00:00,2021-09-21 19:35:36.753000+00:00,VİVALDİ ÇİLEK,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+700,Vivaldi Harmony,adyan,2021-09-21 19:17:45.898999+00:00,[],True,2.0,cerentomak,True,card,6.0,vharmonyadmin,d11,2021-09-21 19:22:07.479000+00:00,2021-09-21 19:58:41.870000+00:00,SİYAH ÇAY,,True,2021-09-21 19:58:25.975000+00:00,vharmonyadmin,40.0
+701,Vivaldi Harmony,adyan,2021-09-21 19:20:12.107000+00:00,[],True,2.0,cerentomak,True,card,10.004999999999999,vharmonyadmin,b4,2021-09-21 19:20:20.288000+00:00,2021-09-21 19:24:57.956000+00:00,SU,,True,2021-09-21 19:24:51.341000+00:00,vharmonyadmin,13.0
+702,Vivaldi Harmony,adyan,2021-09-21 19:27:13.697999+00:00,[],True,2.0,gorkemk,True,card,8.7,vharmonyadmin,b8,2021-09-21 19:30:16.105999+00:00,2021-09-21 19:35:36.753000+00:00,SU,,True,2021-09-21 19:35:26.858000+00:00,vharmonyadmin,13.0
+703,Vivaldi Harmony,adyan,2021-09-21 19:30:25.430000+00:00,[],True,2.0,gorkemk,True,cash,32.0,vharmonyadmin,s7,2021-09-21 19:35:50.124000+00:00,2021-09-21 19:56:23.690000+00:00,CAPPUCCİNO,,,,,
+704,Vivaldi Harmony,adyan,2021-09-21 19:31:08.526000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s7,2021-09-21 19:34:49.749000+00:00,2021-09-21 19:56:23.690000+00:00,Vivaldi Brownie,,,,,
+705,Vivaldi Harmony,adyan,2021-09-21 19:31:11.976000+00:00,[],True,1.0,gorkemk,True,cash,30.0,vharmonyadmin,s7,2021-09-21 19:34:50.782999+00:00,2021-09-21 19:56:23.690000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+706,Vivaldi Görükle,vgorukle,2021-09-21 19:37:01.636000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b2,,2021-09-21 20:43:31.496000+00:00,VİVALDİ ÇİLEK,,,,,
+707,Vivaldi Görükle,vgorukle,2021-09-21 19:37:07.762000+00:00,[],True,1.0,,True,card,14.0,vgorukle,b2,,2021-09-21 20:43:31.496000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+708,Vivaldi Görükle,vgorukle,2021-09-21 19:37:20.656000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b8,,2021-09-21 20:22:11.664000+00:00,SİYAH ÇAY,,,,,
+709,Vivaldi Görükle,vgorukle,2021-09-21 19:37:22.429000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b8,,2021-09-21 20:22:11.664000+00:00,SİYAH ÇAY,,,,,
+710,Vivaldi Görükle,vgorukle,2021-09-21 19:37:23.530000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b8,,2021-09-21 20:22:11.664000+00:00,SİYAH ÇAY,,,,,
+711,Vivaldi Görükle,vgorukle,2021-09-21 19:37:32.892000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+712,Vivaldi Görükle,vgorukle,2021-09-21 19:37:35.133000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+713,Vivaldi Görükle,vgorukle,2021-09-21 19:37:40.024000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,SİYAH ÇAY,,,,,
+714,Vivaldi Görükle,vgorukle,2021-09-21 19:37:41.471000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,SİYAH ÇAY,,,,,
+715,Vivaldi Görükle,vgorukle,2021-09-21 19:38:03.933000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b2,,2021-09-21 20:43:31.496000+00:00,SU,,,,,
+716,Vivaldi Görükle,vgorukle,2021-09-21 19:38:09.932000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,SU,,,,,
+717,Vivaldi Görükle,vgorukle,2021-09-21 19:38:11.766000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 19:57:37.430000+00:00,SU,,,,,
+718,Vivaldi Harmony,adyan,2021-09-21 19:39:11.351999+00:00,[],True,5.0,gorkemk,True,card,15.0,vharmonyadmin,d11,2021-09-21 19:42:22.286000+00:00,2021-09-21 19:58:41.870000+00:00,SİYAH ÇAY,1 açk/ 1 demli ,True,2021-09-21 19:58:25.975000+00:00,vharmonyadmin,40.0
+719,Vivaldi Harmony,adyan,2021-09-21 19:39:19.832999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,b7,2021-09-21 19:45:59.690999+00:00,2021-09-21 19:59:50.515000+00:00,SİYAH ÇAY,,,,,
+720,Vivaldi Harmony,adyan,2021-09-21 19:39:25.775000+00:00,[],True,1.0,gorkemk,True,card,30.0,vharmonyadmin,b7,2021-09-21 19:46:01.040999+00:00,2021-09-21 19:59:46.721000+00:00,SAN SEBASTİAN CHEESECAKE,,,,,
+721,Vivaldi Harmony,adyan,2021-09-21 19:39:28.115999+00:00,[],True,1.0,gorkemk,True,cash,5.0,vharmonyadmin,b7,2021-09-21 19:46:02.075000+00:00,2021-09-21 19:59:50.515000+00:00,SU,,,,,
+722,Vivaldi Harmony,adyan,2021-09-21 19:40:16.180999+00:00,[],True,1.0,gorkemk,True,cash,15.0,vharmonyadmin,d6,2021-09-21 19:46:03.075000+00:00,2021-09-21 20:03:43.405000+00:00,ICE AMERİCANO ,,,,,
+723,Vivaldi Harmony,adyan,2021-09-21 19:40:28.838999+00:00,[],True,1.0,gorkemk,True,cash,19.0,vharmonyadmin,d6,2021-09-21 19:46:04.132999+00:00,2021-09-21 20:03:43.405000+00:00,SICAK ÇİKOLATA,,,,,
+724,Vivaldi Harmony,adyan,2021-09-21 19:40:31.428999+00:00,[],True,1.0,gorkemk,True,card,5.0,vharmonyadmin,d6,2021-09-21 19:46:05.249000+00:00,2021-09-21 20:03:40.354000+00:00,SU,,,,,
+725,Vivaldi Görükle,vgorukle,2021-09-21 20:23:16.817000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b2,,2021-09-21 20:43:31.496000+00:00,SİYAH ÇAY,,,,,
+726,Vivaldi Görükle,vgorukle,2021-09-21 20:23:24.591000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 20:40:16.354000+00:00,SİYAH ÇAY,,,,,
+727,Vivaldi Görükle,vgorukle,2021-09-21 20:23:25.747000+00:00,[],True,1.0,,True,card,5.0,vgorukle,b7,,2021-09-21 20:40:16.354000+00:00,SİYAH ÇAY,,,,,
+728,Vivaldi Görükle,vgorukle,2021-09-21 20:25:09.268000+00:00,[],True,1.0,,True,card,30.0,vgorukle,b1,,2021-09-21 20:25:13.276000+00:00,VİVALDİ CUP (ÇİLEK/MUZ),,,,,
+729,Vivaldi Soğanlı,vivaldisoganli,2021-09-21 21:00:48.369999+00:00,[],True,1.0,,True,cash,30.0,vivaldisoganli,b1,,2021-09-21 21:01:11.424000+00:00,VİVALDİ BOMBA,,,,,
+730,Vivaldi Harmony,vharmonyadmin,2021-09-22 07:24:53.365000+00:00,[],True,1.0,,True,cash,16.0,vharmonyadmin,b6,,2021-09-22 07:41:11.926000+00:00,CAPPUCCİNO,,,,,
+731,Vivaldi Harmony,vharmonyadmin,2021-09-22 07:41:05.667000+00:00,[],True,1.0,,True,cash,5.0,vharmonyadmin,b4,,2021-09-22 08:40:17.132000+00:00,SİYAH ÇAY,,,,,
+732,Vivaldi Görükle,vgorukle,2021-09-22 08:25:19.911000+00:00,[],True,2.0,,True,card,32.0,vgorukle,b2,,2021-09-22 08:52:27.868000+00:00,COFFEE CORTADO ,,,,,
+733,Vivaldi Görükle,vgorukle,2021-09-22 08:25:25.439000+00:00,[],True,2.0,,True,card,10.0,vgorukle,b2,,2021-09-22 08:52:27.868000+00:00,SU,,,,,
+734,Vivaldi Harmony,vharmonyadmin,2021-09-22 08:27:50.694000+00:00,[],True,1.0,,True,cash,16.0,vharmonyadmin,d17,,2021-09-22 09:17:38.181000+00:00,CAPPUCCİNO,,,,,
+735,Vivaldi Harmony,vharmonyadmin,2021-09-22 08:41:03.949000+00:00,[],True,1.0,,True,card,295.0,vharmonyadmin,a0,,2021-09-22 08:41:09.253000+00:00,BAHAR KUTU KOLEKSİYONU 1200GR LACİVERT,,,,,
+736,Vivaldi Harmony,vharmonyadmin,2021-09-22 09:08:17.794000+00:00,[],True,65.0,,True,card,19.5,vharmonyadmin,a0,,2021-09-22 09:09:09.404000+00:00,EL YAPIMI BELÇİKA ÇİKOLATASI GR,,,,,
+737,Vivaldi Harmony,vharmonyadmin,2021-09-22 09:21:16.313000+00:00,[],True,2.0,,True,card,10.0,vharmonyadmin,d5,,2021-09-22 09:39:37.536000+00:00,SİYAH ÇAY,,,,,
+738,Vivaldi Harmony,vharmonyadmin,2021-09-22 09:21:22.087000+00:00,[],True,2.0,,True,card,32.0,vharmonyadmin,d5,,2021-09-22 09:39:37.536000+00:00,COFFEE CORTADO ,,,,,
+739,Vivaldi Görükle,vgorukle,2021-09-22 09:45:49.450000+00:00,[],True,2.0,,True,card,28.0,vgorukle,b8,,2021-09-22 10:05:42.470000+00:00,GELENEKSEL TÜRK KAHVESİ,,,,,
+740,Vivaldi Harmony,vharmonyadmin,2021-09-22 09:56:10.939000+00:00,[],True,2.0,,False,,28.0,,d12,,,GELENEKSEL TÜRK KAHVESİ,,,,,
+741,Vivaldi Harmony,vharmonyadmin,2021-09-22 09:56:17.352000+00:00,[],True,1.0,,False,,14.0,,d12,,,DİBEK KAHVESİ,,,,,
+742,Vivaldi Görükle,vgorukle,2021-09-22 10:08:17.193000+00:00,[],True,1.0,,True,card,250.75,vgorukle,b1,,2021-09-22 10:08:29.109000+00:00,BAHAR KUTU KOLEKSİYONU 1200GR LACİVERT,,True,2021-09-22 10:08:24.461000+00:00,vgorukle,15.0
+743,Vivaldi Harmony,vharmonyadmin,2021-09-22 10:18:46.522000+00:00,[],True,1.0,,False,,5.0,,d11,,,SİYAH ÇAY,,,,,
+744,Vivaldi Özlüce,cozluceadmin,2021-09-22 10:27:03.206000+00:00,[],True,9.0,,True,card,270.0,cozluceadmin,b1,,2021-09-22 10:29:52.246000+00:00,VİVALDİ ÇİLEK,,,,,
+745,Vivaldi Harmony,vharmonyadmin,2021-09-22 10:30:43.785000+00:00,[],True,1.0,,False,,5.0,,b1,,,SU,,,,,
+746,Vivaldi Harmony,vharmonyadmin,2021-09-22 10:30:48.109000+00:00,[],True,1.0,,False,,30.0,,b1,,,VİVALDİ MUZ,,,,,
+747,Vivaldi Harmony,vharmonyadmin,2021-09-22 10:30:50.473000+00:00,[],True,1.0,,False,,30.0,,b1,,,SAN SEBASTİAN CHEESECAKE,,,,,
+748,Vivaldi Harmony,vharmonyadmin,2021-09-22 10:31:33.550000+00:00,[],True,1.0,,False,,15.0,,s4,,,ICE AMERİCANO ,,,,,
